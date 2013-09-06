@@ -1,0 +1,14 @@
+T1	Protein 19 23	AbrB
+T2	PolymeraseComplex 34 41	EsigmaA
+T3	Protein 35 41	sigmaA
+T4	Gene 69 74	spo0H
+T5	Gene 76 82	sigmaH
+T6	Gene 90 94	kinC
+T7	Gene 100 104	abrB
+N1	Gene_Identifier Annotation:T1 Referent:abrB
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:sigA
+N4	Gene_Identifier Annotation:T4 Referent:sigH
+N5	Gene_Identifier Annotation:T5 Referent:sigH
+N6	Gene_Identifier Annotation:T6 Referent:kinC
+N7	Gene_Identifier Annotation:T7 Referent:abrB

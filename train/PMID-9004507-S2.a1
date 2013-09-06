@@ -1,0 +1,10 @@
+T1	PolymeraseComplex 52 82;90 97	RNA polymerase associated with sigma F
+T2	PolymeraseComplex 52 82;101 108	RNA polymerase associated with sigma G
+T3	Protein 90 97	sigma F
+T4	Protein 101 108	sigma G
+T5	Protein 172 179	sigma G
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:sigG
+N3	Gene_Identifier Annotation:T3 Referent:sigF
+N4	Gene_Identifier Annotation:T4 Referent:sigG
+N5	Gene_Identifier Annotation:T5 Referent:sigG

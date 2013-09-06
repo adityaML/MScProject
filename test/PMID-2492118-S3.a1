@@ -1,0 +1,8 @@
+T1	PolymeraseComplex 68 101	sigma K-containing RNA polymerase
+T2	Protein 68 75	sigma K
+T3	Gene 123 130	spoIVCB
+T4	Gene 169 173	cotD
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:sigK
+N3	Gene_Identifier Annotation:T3 Referent:spoIVCB
+N4	Gene_Identifier Annotation:T4 Referent:cotD

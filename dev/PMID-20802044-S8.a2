@@ -1,0 +1,4 @@
+T4	Action 107 115	activity
+E1	Action_Target:T4 Target:T3
+R1	Interaction.Inhibition Target:T2 Agent:T1
+R2	Interaction.Inhibition Target:E1 Agent:T1

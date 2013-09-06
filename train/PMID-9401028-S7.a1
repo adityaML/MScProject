@@ -1,0 +1,5 @@
+T1	Gene 66 70	araE
+T2	Promoter 71 79	promoter
+T3	Protein 157 161	AraR
+N1	Gene_Identifier Annotation:T1 Referent:araE
+N2	Gene_Identifier Annotation:T3 Referent:araR

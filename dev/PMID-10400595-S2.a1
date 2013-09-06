@@ -1,0 +1,7 @@
+T1	Protein 0 4	GerE
+T2	Site 16 20	site
+T3	Promoter 37 46	promoters
+T4	Gene 48 52	cotX
+T5	Site 72 82	-35 region
+N1	Gene_Identifier Annotation:T1 Referent:gerE
+N2	Gene_Identifier Annotation:T4 Referent:cotX

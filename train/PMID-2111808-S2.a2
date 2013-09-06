@@ -1,0 +1,5 @@
+T5	Action 40 49	expressed
+T6	Action 106 119	transcription
+T7	Action 142 151	expressed
+E1	Action_Target:T5 Target:T2
+E2	Action_Target:T6 Target:T4

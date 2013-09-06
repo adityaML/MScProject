@@ -1,0 +1,4 @@
+T3	Action 0 13	Transcription
+E1	Action_Target:T3 Target:T1
+E2	Transcription_by:T3 Agent:T2
+R1	Interaction.Transcription Target:E1 Agent:T2

@@ -1,0 +1,6 @@
+T1	Protein 14 18	CheV
+T2	ProteinFamily 59 63	CheW
+T3	ProteinFamily 127 131	CheY
+N1	Gene_Identifier Annotation:T1 Referent:cheV
+N2	Gene_Identifier Annotation:T2 Referent:cheW
+N3	Gene_Identifier Annotation:T3 Referent:cheY

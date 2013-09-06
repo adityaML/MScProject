@@ -1,0 +1,2 @@
+These results demonstrate that sigmaK and GerE are required for cotS expression and that CotE is essential for the assembly of CotS in the coat.
+

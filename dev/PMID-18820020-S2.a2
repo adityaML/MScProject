@@ -1,0 +1,7 @@
+T6	Action 0 10	Activation
+T7	Action 37 47	expression
+E1	Action_Target:T7 Target:T2
+E2	Action_Target:T7 Target:T5
+E3	Action_Target:T6 Target:T1
+R1	Interaction.Requirement Target:E3 Agent:E1
+R2	Interaction.Requirement Target:E3 Agent:E2

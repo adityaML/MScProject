@@ -1,0 +1,4 @@
+T1	Protein 34 40	sigmaF
+T2	Protein 78 84	sigmaA
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:sigA

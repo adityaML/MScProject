@@ -1,0 +1,2 @@
+The spoIIG promoter is used by RNA polymerase containing sigma A (E sigma A), the primary form of RNA polymerase found in vegetative cells in Bacillus subtilis.
+

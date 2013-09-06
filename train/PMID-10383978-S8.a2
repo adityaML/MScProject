@@ -1,0 +1,13 @@
+T9	Action 60 70	recognized
+T10	Action 139 147	activity
+E1	Action_Target:T10 Target:T8
+E2	Action_Target:T9 Target:T2
+E3	Action_Target:T9 Target:T4
+E4	Transcription_by:T9 Agent:T5
+R1	Promoter_of Gene:T1 Promoter:T2
+R2	Promoter_of Gene:T3 Promoter:T4
+R3	Interaction.Inhibition Target:E1 Agent:T7
+R4	Interaction.Transcription Target:T1 Agent:T5
+R5	Interaction.Transcription Target:T3 Agent:T5
+R6	Master_of_Promoter Promoter:T2 Protein:T5
+R7	Master_of_Promoter Promoter:T4 Protein:T5

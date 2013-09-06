@@ -1,0 +1,11 @@
+T1	Protein 43 47	gerE
+T2	Protein 49 53	GerE
+T3	ProteinFamily 60 71	DNA-binding
+T4	Promoter 100 109	promoters
+T5	Gene 114 118	cotB
+T6	Gene 123 127	cotC
+N1	Gene_Identifier Annotation:T1 Referent:gerE
+N2	Gene_Identifier Annotation:T2 Referent:gerE
+N3	Gene_Identifier Annotation:T3 Referent:DNA-binding
+N4	Gene_Identifier Annotation:T5 Referent:cotB
+N5	Gene_Identifier Annotation:T6 Referent:cotC

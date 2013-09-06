@@ -1,0 +1,18 @@
+T1	Site 4 7;16 25	-10 sequences
+T2	Site 12 25	-35 sequences
+T3	Protein 33 39	sigmaB
+T4	Protein 45 51	sigmaF
+T5	Promoter 62 71	promoters
+T6	Gene 75 79	katX
+T7	Site 97 125	transcriptional start points
+T8	PolymeraseComplex 134 141	EsigmaB
+T9	Protein 135 141	sigmaB
+T10	PolymeraseComplex 146 153	EsigmaF
+T11	Protein 147 153	sigmaF
+N1	Gene_Identifier Annotation:T3 Referent:sigB
+N2	Gene_Identifier Annotation:T4 Referent:sigF
+N3	Gene_Identifier Annotation:T6 Referent:katX
+N4	Gene_Identifier Annotation:T8 Referent:sigB
+N5	Gene_Identifier Annotation:T9 Referent:sigB
+N6	Gene_Identifier Annotation:T10 Referent:sigF
+N7	Gene_Identifier Annotation:T11 Referent:sigF

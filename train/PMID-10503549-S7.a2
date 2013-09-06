@@ -1,0 +1,4 @@
+T3	Action 59 69	expression
+E1	Action_Target:T3 Target:T2
+E2	Transcription_by:T3 Agent:T1
+R1	Interaction.Transcription Target:E1 Agent:T1

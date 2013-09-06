@@ -1,0 +1,12 @@
+T1	Protein 25 29	GerR
+T2	Gene 155 161	spoVIF
+T3	Gene 163 167	cotC
+T4	Gene 173 177	cotG
+T5	Gene 198 202	cotB
+T6	Gene 220 224	cotU
+N1	Gene_Identifier Annotation:T1 Referent:gerR
+N2	Gene_Identifier Annotation:T2 Referent:spoVIF
+N3	Gene_Identifier Annotation:T3 Referent:cotC
+N4	Gene_Identifier Annotation:T4 Referent:cotG
+N5	Gene_Identifier Annotation:T5 Referent:cotB
+N6	Gene_Identifier Annotation:T6 Referent:cotU

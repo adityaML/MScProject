@@ -1,0 +1,7 @@
+T1	Protein 18 23	Spo0A
+T2	Protein 58 64	sigmaA
+T3	Protein 70 76	sigmaH
+T4	Promoter 87 96	promoters
+N1	Gene_Identifier Annotation:T1 Referent:spo0A
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:sigH

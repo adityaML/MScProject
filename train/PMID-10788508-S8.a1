@@ -1,0 +1,12 @@
+T1	Protein 23 27	GerE
+T2	Gene 38 42	cotB
+T3	PolymeraseComplex 66 89	sigma(K) RNA polymerase
+T4	Protein 66 74	sigma(K)
+T5	Gene 162 166	cotX
+T6	Gene 170 174	cotC
+N1	Gene_Identifier Annotation:T1 Referent:gerE
+N2	Gene_Identifier Annotation:T2 Referent:cotB
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:sigK
+N5	Gene_Identifier Annotation:T5 Referent:cotX
+N6	Gene_Identifier Annotation:T6 Referent:cotC

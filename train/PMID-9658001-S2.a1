@@ -1,0 +1,24 @@
+T1	Protein 13 18	Spo0A
+T2	Promoter 29 37	promoter
+T3	Gene 54 60	spoIIE
+T4	Promoter 60 61	p
+T5	PolymeraseComplex 80 110;137 144	RNA polymerase associated with sigma A
+T6	Protein 115 135	primary sigma factor
+T7	Protein 137 144	sigma A
+T8	Protein 146 152	sigmaA
+T9	Gene 182 188	spoIIA
+T10	Promoter 188 189	p
+T11	PolymeraseComplex 208 238;274 281	RNA polymerase associated with sigma H
+T12	Protein 242 272	early-sporulation sigma factor
+T13	Protein 274 281	sigma H
+T14	Protein 283 289	sigmaH
+N1	Gene_Identifier Annotation:T1 Referent:spo0A
+N2	Gene_Identifier Annotation:T3 Referent:spoIIE
+N3	Gene_Identifier Annotation:T5 Referent:sigA
+N4	Gene_Identifier Annotation:T6 Referent:primary sigma factor
+N5	Gene_Identifier Annotation:T7 Referent:sigA
+N6	Gene_Identifier Annotation:T8 Referent:sigA
+N7	Gene_Identifier Annotation:T9 Referent:spoIIA
+N8	Gene_Identifier Annotation:T11 Referent:sigH
+N9	Gene_Identifier Annotation:T12 Referent:early-sporulation sigma factor
+N10	Gene_Identifier Annotation:T13 Referent:sigH

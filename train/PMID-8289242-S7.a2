@@ -1,0 +1,9 @@
+T5	Action 6 19	transcription
+T6	Action 53 63	recognized
+E1	Action_Target:T5 Target:T1
+E2	Action_Target:T6 Target:T2
+E3	Transcription_from:T5 Site:T2
+E4	Transcription_by:T5 Agent:T3
+R1	Promoter_of Gene:T1 Promoter:T2
+R2	Master_of_Promoter Promoter:T2 Protein:T3
+R3	Interaction.Transcription Target:E1 Agent:T3

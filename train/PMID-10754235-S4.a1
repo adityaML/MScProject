@@ -1,0 +1,6 @@
+T1	Gene 36 40	abrB
+T2	Operon 55 61	spoIIA
+T3	Gene 66 72	spoIIE
+N1	Gene_Identifier Annotation:T1 Referent:abrB
+N2	Gene_Identifier Annotation:T2 Referent:spoIIA
+N3	Gene_Identifier Annotation:T3 Referent:spoIIE

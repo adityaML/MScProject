@@ -1,0 +1,8 @@
+T1	Protein 29 33	CtpB
+T2	Protein 40 43	IVB
+T3	Protein 54 66	pro-sigma(K)
+T4	Protein 90 97	SpoIVFA
+N1	Gene_Identifier Annotation:T1 Referent:ctpB
+N2	Gene_Identifier Annotation:T2 Referent:spoIVB
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:spoIVFA

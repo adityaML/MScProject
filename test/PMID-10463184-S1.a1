@@ -1,0 +1,12 @@
+T1	Gene 4 8	yfhP
+T2	Gene 10 14	yfhQ
+T3	Gene 33 37	yfhS
+T4	Gene 42 46	yfhR
+T5	ProteinFamily 48 62	oxidoreductase
+T6	Gene 115 119	sspE
+N1	Gene_Identifier Annotation:T1 Referent:yfhP
+N2	Gene_Identifier Annotation:T2 Referent:mutY
+N3	Gene_Identifier Annotation:T3 Referent:yfhS
+N4	Gene_Identifier Annotation:T4 Referent:fabL
+N5	Gene_Identifier Annotation:T5 Referent:oxidoreductase
+N6	Gene_Identifier Annotation:T6 Referent:sspE

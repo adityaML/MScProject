@@ -1,0 +1,10 @@
+T1	Protein 50 57	sigma E
+T2	Gene 66 73	spoIIID
+T3	Promoter 74 82	promoter
+T4	Protein 107 114	sigma E
+T5	Gene 146 153	spoIIID
+T6	Promoter 154 162	promoter
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:spoIIID
+N3	Gene_Identifier Annotation:T4 Referent:sigE
+N4	Gene_Identifier Annotation:T5 Referent:spoIIID

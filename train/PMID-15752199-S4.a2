@@ -1,0 +1,24 @@
+T10	Action 77 88	synthesized
+T11	Action 163 174	synthesized
+T12	Action 259 271	localization
+E1	Action_Target:T12 Target:T9
+E2	Action_Target:T10 Target:T2
+E3	Action_Target:T10 Target:T3
+E4	Action_Target:T10 Target:T4
+E5	Action_Target:T10 Target:T5
+E6	Action_Target:T10 Target:T1
+E7	Action_Target:T11 Target:T7
+E8	Transcription_by:T10 Agent:T6
+E9	Transcription_by:T11 Agent:T8
+R1	Interaction.Requirement Target:E1 Agent:E6
+R2	Interaction.Requirement Target:E1 Agent:E2
+R3	Interaction.Requirement Target:E1 Agent:E3
+R4	Interaction.Requirement Target:E1 Agent:E4
+R5	Interaction.Requirement Target:E1 Agent:E5
+R6	Interaction.Requirement Target:E1 Agent:E7
+R7	Interaction.Transcription Target:E6 Agent:T6
+R8	Interaction.Transcription Target:E2 Agent:T6
+R9	Interaction.Transcription Target:E3 Agent:T6
+R10	Interaction.Transcription Target:E4 Agent:T6
+R11	Interaction.Regulation Target:E5 Agent:T6
+R12	Interaction.Transcription Target:E7 Agent:T8

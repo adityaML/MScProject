@@ -1,0 +1,2 @@
+The sigmaB-dependent promoter drives expression of yvyD under stress conditions and after glucose starvation, whereas a sigmaH-dependent promoter is responsible for yvyD transcription following amino acid limitation.
+

@@ -1,0 +1,9 @@
+T5	Action 67 77	processing
+T6	Action 81 89	cleaving
+E1	Action_Target:T5 Target:T3
+E2	Action_Target:T6 Target:T4
+R1	Interaction.Regulation Target:E1 Agent:T1
+R2	Interaction.Regulation Target:E1 Agent:T2
+R3	Interaction.Regulation Target:E2 Agent:T1
+R4	Interaction.Regulation Target:E2 Agent:T2
+R5	Interaction.Regulation Target:E1 Agent:E2

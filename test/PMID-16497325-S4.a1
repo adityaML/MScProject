@@ -1,0 +1,8 @@
+T1	Protein 4 12	sigma(G)
+T2	Protein 13 19	factor
+T3	Gene 69 74	SpoVT
+T4	Protein 189 197	sigma(G)
+N1	Gene_Identifier Annotation:T1 Referent:sigG
+N2	Gene_Identifier Annotation:T2 Referent:factor
+N3	Gene_Identifier Annotation:T3 Referent:spoVT
+N4	Gene_Identifier Annotation:T4 Referent:sigG

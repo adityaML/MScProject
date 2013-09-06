@@ -1,0 +1,10 @@
+T1	ProteinFamily 33 45	sigma factor
+T2	Protein 116 124	sigma(E)
+T3	Protein 126 134	sigma(K)
+T4	Protein 139 147	sigma(G)
+T5	ProteinFamily 218 243	sporulation sigma factors
+N1	Gene_Identifier Annotation:T1 Referent:sigma factor
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:sigG
+N5	Gene_Identifier Annotation:T5 Referent:sporulation sigma factor

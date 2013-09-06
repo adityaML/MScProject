@@ -1,0 +1,10 @@
+T1	Gene 46 50	ywhE
+T2	Gene 75 79	ywhE
+T3	Protein 155 186	forespore-specific sigma factor
+T4	Protein 187 195	sigma(F)
+T5	Protein 223 231	sigma(G)
+N1	Gene_Identifier Annotation:T1 Referent:pbpG
+N2	Gene_Identifier Annotation:T2 Referent:pbpG
+N3	Gene_Identifier Annotation:T3 Referent:forespore-specific sigma factor
+N4	Gene_Identifier Annotation:T4 Referent:sigF
+N5	Gene_Identifier Annotation:T5 Referent:sigG

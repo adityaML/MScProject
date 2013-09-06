@@ -1,0 +1,6 @@
+T1	PolymeraseComplex 49 82	RNA polymerase containing sigma A
+T2	Protein 75 82	sigma A
+T3	Operon 153 159	spoIIG
+N1	Gene_Identifier Annotation:T1 Referent:sigA
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:spoIIG

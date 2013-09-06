@@ -1,0 +1,3 @@
+T4	Action 56 69	transcription
+E1	Action_Target:T4 Target:T2
+R1	Interaction.Inhibition Target:E1 Agent:T1

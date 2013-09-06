@@ -1,0 +1,7 @@
+T1	Operon 22 26	clpC
+T2	Protein 98 104	sigmaB
+T3	Protein 159 165	sigmaA
+T4	Promoter 171 179	promoter
+N1	Gene_Identifier Annotation:T1 Referent:clpC
+N2	Gene_Identifier Annotation:T2 Referent:sigB
+N3	Gene_Identifier Annotation:T3 Referent:sigA

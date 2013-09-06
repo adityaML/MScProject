@@ -1,0 +1,3 @@
+T3	Action 5 18	transcription
+E1	Action_Target:T3 Target:T1
+R1	Interaction.Requirement Target:E1 Agent:T2

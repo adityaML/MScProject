@@ -1,0 +1,9 @@
+T1	Protein 25 32	spoIIID
+T2	Protein 65 76	polypeptide
+T3	Protein 105 125	transcription factor
+T4	Promoter 156 164	promoter
+T5	Gene 173 177	sigK
+N1	Gene_Identifier Annotation:T1 Referent:spoIIID
+N2	Gene_Identifier Annotation:T2 Referent:polypeptide
+N3	Gene_Identifier Annotation:T3 Referent:transcription factor
+N4	Gene_Identifier Annotation:T5 Referent:sigK

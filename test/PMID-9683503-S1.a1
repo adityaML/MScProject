@@ -1,0 +1,10 @@
+T1	Protein 26 32	PhoP~P
+T2	Gene 83 87	tagA
+T3	Gene 92 96	tagD
+T4	Promoter 97 106	promoters
+T5	Gene 153 157	tuaA
+T6	Promoter 158 166	promoter
+N1	Gene_Identifier Annotation:T1 Referent:phoP
+N2	Gene_Identifier Annotation:T2 Referent:tagA
+N3	Gene_Identifier Annotation:T3 Referent:tagD
+N4	Gene_Identifier Annotation:T5 Referent:tuaA

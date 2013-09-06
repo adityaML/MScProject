@@ -1,0 +1,10 @@
+T1	Operon 45 49	cwlB
+T2	PolymeraseComplex 75 84	E sigma D
+T3	Protein 77 84	sigma D
+T4	PolymeraseComplex 89 98	E sigma A
+T5	Protein 91 98	sigma A
+N1	Gene_Identifier Annotation:T1 Referent:lytC
+N2	Gene_Identifier Annotation:T2 Referent:sigD
+N3	Gene_Identifier Annotation:T3 Referent:sigD
+N4	Gene_Identifier Annotation:T4 Referent:sigA
+N5	Gene_Identifier Annotation:T5 Referent:sigA

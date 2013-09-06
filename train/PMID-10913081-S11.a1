@@ -1,0 +1,10 @@
+T1	Protein 13 17	YtxH
+T2	Protein 22 26	YvyD
+T3	Protein 97 105	sigma(B)
+T4	Gene 134 138	sigB
+T5	Protein 159 167	sigma(H)
+N1	Gene_Identifier Annotation:T1 Referent:ytxH
+N2	Gene_Identifier Annotation:T2 Referent:yvyD
+N3	Gene_Identifier Annotation:T3 Referent:sigB
+N4	Gene_Identifier Annotation:T4 Referent:sigB
+N5	Gene_Identifier Annotation:T5 Referent:sigH

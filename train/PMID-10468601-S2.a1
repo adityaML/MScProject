@@ -1,0 +1,11 @@
+T1	Protein 26 35	sigma(54)
+T2	Gene 53 57	rocG
+T3	Site 65 68	UAS
+T4	Site 107 115	sequence
+T5	Gene 156 160	rocG
+T6	Promoter 161 169	promoter
+T7	Gene 193 197	rocG
+N1	Gene_Identifier Annotation:T1 Referent:sigL
+N2	Gene_Identifier Annotation:T2 Referent:rocG
+N3	Gene_Identifier Annotation:T5 Referent:rocG
+N4	Gene_Identifier Annotation:T7 Referent:rocG

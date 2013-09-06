@@ -1,0 +1,4 @@
+T1	Protein 16 22	SpoIIE
+T2	Protein 88 92	FtsZ
+N1	Gene_Identifier Annotation:T1 Referent:spoIIE
+N2	Gene_Identifier Annotation:T2 Referent:ftsZ

@@ -1,0 +1,4 @@
+T1	Operon 25 30	bmrUR
+T2	Protein 47 53	sigmaB
+N1	Gene_Identifier Annotation:T1 Referent:bmrUR
+N2	Gene_Identifier Annotation:T2 Referent:sigB

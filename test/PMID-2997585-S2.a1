@@ -1,0 +1,10 @@
+T1	Gene 4 8	rpoD
+T2	Gene 27 31	aroD
+T3	Gene 36 39	lys
+T4	Gene 59 63	dnaE
+T5	Gene 85 89	crsA
+N1	Gene_Identifier Annotation:T1 Referent:sigA
+N2	Gene_Identifier Annotation:T2 Referent:aroD
+N3	Gene_Identifier Annotation:T3 Referent:lysA
+N4	Gene_Identifier Annotation:T4 Referent:dnaG
+N5	Gene_Identifier Annotation:T5 Referent:sigA

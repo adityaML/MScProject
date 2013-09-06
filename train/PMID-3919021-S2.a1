@@ -1,0 +1,4 @@
+T1	Gene 58 62	dnaE
+T2	Gene 93 97	rpoD
+N1	Gene_Identifier Annotation:T1 Referent:dnaG
+N2	Gene_Identifier Annotation:T2 Referent:sigA

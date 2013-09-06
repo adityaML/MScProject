@@ -1,0 +1,2 @@
+We found that sigma H-RNA polymerase transcribes spoIIA accurately in vitro and propose that sigma H directs transcription of spoIIA during sporulation.
+

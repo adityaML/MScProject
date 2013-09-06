@@ -1,0 +1,2 @@
+Here, we show that the ctpB gene is expressed in both the mother cell and forespore compartments but that synthesis in the forespore under the control of sigma(G) is both necessary and sufficient for the proper timing of pro-sigma(K) processing.
+

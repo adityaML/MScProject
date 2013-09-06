@@ -1,0 +1,16 @@
+T1	Promoter 9 17	promoter
+T2	Gene 22 26	cotB
+T3	Gene 32 36	cotG
+T4	Promoter 37 45	promoter
+T5	PolymeraseComplex 113 127;141 148	RNA polymerase sigma K
+T6	Protein 128 140	sigma factor
+T7	Protein 141 148	sigma K
+T8	Protein 157 168	DNA-binding
+T9	Protein 177 181	GerE
+N1	Gene_Identifier Annotation:T2 Referent:cotB
+N2	Gene_Identifier Annotation:T3 Referent:cotG
+N3	Gene_Identifier Annotation:T5 Referent:sigK
+N4	Gene_Identifier Annotation:T6 Referent:sigma factor
+N5	Gene_Identifier Annotation:T7 Referent:sigK
+N6	Gene_Identifier Annotation:T8 Referent:DNA-binding
+N7	Gene_Identifier Annotation:T9 Referent:gerE

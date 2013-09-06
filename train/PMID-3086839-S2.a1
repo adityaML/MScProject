@@ -1,0 +1,10 @@
+T1	Gene 73 77	rpoD
+T2	Gene 134 138	rpoD
+T3	Gene 152 155	P23
+T4	Gene 156 160	dnaE
+T5	Gene 161 165	rpoD
+N1	Gene_Identifier Annotation:T1 Referent:sigA
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:yqxD
+N4	Gene_Identifier Annotation:T4 Referent:dnaG
+N5	Gene_Identifier Annotation:T5 Referent:sigA

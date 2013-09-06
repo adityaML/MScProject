@@ -1,0 +1,2 @@
+The sigma(F) factor turns on about 48 genes, including the gene for RsfA, which represses a gene in the sigma(F) regulon, and the gene for sigma(G).
+

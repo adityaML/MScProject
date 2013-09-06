@@ -1,0 +1,10 @@
+T1	Protein 4 10	sigmaB
+T2	Promoter 21 29	promoter
+T3	Gene 51 55	yvyD
+T4	Protein 120 126	sigmaH
+T5	Promoter 137 145	promoter
+T6	Gene 165 169	yvyD
+N1	Gene_Identifier Annotation:T1 Referent:sigB
+N2	Gene_Identifier Annotation:T3 Referent:yvyD
+N3	Gene_Identifier Annotation:T4 Referent:sigH
+N4	Gene_Identifier Annotation:T6 Referent:yvyD

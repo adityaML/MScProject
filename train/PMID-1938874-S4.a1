@@ -1,0 +1,10 @@
+T1	Protein 31 38	sigma F
+T2	Gene 88 95	sigma G
+T3	Protein 105 112	sigma F
+T4	Gene 164 171	spoIIAB
+T5	Gene 211 218	spoIIAB
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:sigG
+N3	Gene_Identifier Annotation:T3 Referent:sigF
+N4	Gene_Identifier Annotation:T4 Referent:spoIIAB
+N5	Gene_Identifier Annotation:T5 Referent:spoIIAB

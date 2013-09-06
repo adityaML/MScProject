@@ -1,0 +1,6 @@
+T1	Protein 10 16	SpoIIE
+T2	Protein 56 103	first compartment-specific transcription factor
+T3	Protein 104 112	sigma(F)
+N1	Gene_Identifier Annotation:T1 Referent:spoIIE
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:sigF

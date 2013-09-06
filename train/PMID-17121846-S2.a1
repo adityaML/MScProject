@@ -1,0 +1,10 @@
+T1	Protein 25 60	late forespore transcription factor
+T2	Protein 61 67	sigmaG
+T3	Protein 112 118	SpoIVB
+T4	Protein 167 204	late mother cell transcription factor
+T5	Protein 205 211	sigmaK
+N1	Gene_Identifier Annotation:T1 Referent:late forespore transcription factor
+N2	Gene_Identifier Annotation:T2 Referent:sigG
+N3	Gene_Identifier Annotation:T3 Referent:spoIVB
+N4	Gene_Identifier Annotation:T4 Referent:late mother cell transcription factor
+N5	Gene_Identifier Annotation:T5 Referent:sigK

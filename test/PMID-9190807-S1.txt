@@ -1,0 +1,2 @@
+sigmaF, the first compartment-specific transcription factor in sporulating Bacillus subtilis, is negatively regulated by an anti-sigma factor, SpoIIAB.
+

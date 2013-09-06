@@ -1,0 +1,12 @@
+T1	Protein 0 4	ComK
+T2	Gene 46 49	hag
+T3	Operon 86 95	comF-flgM
+T4	Protein 138 142	FlgM
+T5	Protein 143 159	antisigma factor
+T6	Protein 174 180	sigmaD
+N1	Gene_Identifier Annotation:T1 Referent:comK
+N2	Gene_Identifier Annotation:T2 Referent:hag
+N3	Gene_Identifier Annotation:T3 Referent:comF-flgM
+N4	Gene_Identifier Annotation:T4 Referent:flgM
+N5	Gene_Identifier Annotation:T5 Referent:antisigma factor
+N6	Gene_Identifier Annotation:T6 Referent:sigD

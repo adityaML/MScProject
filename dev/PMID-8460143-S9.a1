@@ -1,0 +1,8 @@
+T1	Protein 0 4	RsbW
+T2	Protein 25 32	sigma B
+T3	Protein 91 98	sigma B
+T4	PolymeraseComplex 128 139	core enzyme
+N1	Gene_Identifier Annotation:T1 Referent:rsbW
+N2	Gene_Identifier Annotation:T2 Referent:sigB
+N3	Gene_Identifier Annotation:T3 Referent:sigB
+N4	Gene_Identifier Annotation:T4 Referent:core RNA polymerase

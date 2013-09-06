@@ -1,0 +1,8 @@
+T1	Protein 2 8	sigmaW
+T2	Promoter 19 27	promoter
+T3	Promoter 29 31	PW
+T4	Gene 42 46	sigW
+T5	Protein 72 92	transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:sigW
+N2	Gene_Identifier Annotation:T4 Referent:sigW
+N3	Gene_Identifier Annotation:T5 Referent:transcription factor

@@ -1,0 +1,10 @@
+T1	Gene 71 75	sigE
+T2	Protein 95 122	earlier-acting sigma factor
+T3	Protein 124 130	sigmaE
+T4	Protein 163 188	later-acting sigma factor
+T5	Protein 190 196	sigmaK
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:earlier-acting sigma factor
+N3	Gene_Identifier Annotation:T3 Referent:sigE
+N4	Gene_Identifier Annotation:T4 Referent:later-acting sigma factor
+N5	Gene_Identifier Annotation:T5 Referent:sigK

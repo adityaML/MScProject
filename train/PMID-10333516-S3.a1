@@ -1,0 +1,16 @@
+T1	Gene 4 8	sspH
+T2	Gene 13 17	sspL
+T3	Protein 56 87	forespore-specific sigma factor
+T4	Protein 108 114	sigmaG
+T5	Operon 120 128	sspN-tlp
+T6	Protein 166 172	sigmaG
+T7	Protein 187 218	forespore-specific sigma factor
+T8	Protein 220 226	sigmaF
+N1	Gene_Identifier Annotation:T1 Referent:sspH
+N2	Gene_Identifier Annotation:T2 Referent:sspL
+N3	Gene_Identifier Annotation:T3 Referent:forespore-specific sigma factor
+N4	Gene_Identifier Annotation:T4 Referent:sigG
+N5	Gene_Identifier Annotation:T5 Referent:sspN-tlp
+N6	Gene_Identifier Annotation:T6 Referent:sigG
+N7	Gene_Identifier Annotation:T7 Referent:forespore-specific sigma factor
+N8	Gene_Identifier Annotation:T8 Referent:sigF

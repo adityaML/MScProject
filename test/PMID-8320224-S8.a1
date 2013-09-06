@@ -1,0 +1,6 @@
+T1	Gene 28 33	spoVE
+T2	PolymeraseComplex 95 128	sigma E-associated RNA polymerase
+T3	Protein 95 102	sigma E
+N1	Gene_Identifier Annotation:T1 Referent:spoVE
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:sigE

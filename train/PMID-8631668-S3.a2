@@ -1,0 +1,7 @@
+T4	Action 0 10	Activation
+T5	Action 31 41	expression
+E1	Action_Target:T4 Target:T1
+E2	Action_Target:T5 Target:T3
+E3	Transcription_by:T5 Agent:T2
+R1	Interaction.Requirement Target:E1 Agent:E2
+R2	Interaction.Transcription Target:E2 Agent:T2

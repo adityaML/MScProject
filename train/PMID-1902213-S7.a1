@@ -1,0 +1,9 @@
+T1	Protein 37 44	sigma G
+T2	Operon 92 98	spoIIG
+T3	Promoter 99 107	promoter
+T4	Protein 115 122	sigma G
+T5	Protein 156 176	transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:sigG
+N2	Gene_Identifier Annotation:T2 Referent:spoIIG
+N3	Gene_Identifier Annotation:T4 Referent:sigG
+N4	Gene_Identifier Annotation:T5 Referent:transcription factor

@@ -1,0 +1,6 @@
+T5	Action 39 50	transcribed
+E1	Action_Target:T5 Target:T1
+E2	Action_Target:T5 Target:T2
+E3	Transcription_by:T5 Agent:T3
+R1	Interaction.Transcription Target:E1 Agent:T3
+R2	Interaction.Transcription Target:E2 Agent:T3

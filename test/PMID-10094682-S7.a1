@@ -1,0 +1,8 @@
+T1	Operon 22 25	bkd
+T2	Protein 144 156	sigma factor
+T3	Protein 157 161	SigL
+T4	ProteinFamily 179 187	sigma 54
+N1	Gene_Identifier Annotation:T1 Referent:bkd
+N2	Gene_Identifier Annotation:T2 Referent:sigma factor
+N3	Gene_Identifier Annotation:T3 Referent:sigL
+N4	Gene_Identifier Annotation:T4 Referent:sigma 54

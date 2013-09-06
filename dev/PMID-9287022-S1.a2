@@ -1,0 +1,8 @@
+T5	Action 34 47	transcription
+E1	Transcription_from:T5 Site:T4
+E2	Transcription_by:T5 Agent:T2
+E3	Transcription_by:T5 Agent:T3
+R1	Master_of_Promoter Promoter:T4 Protein:T3
+R2	Master_of_Promoter Promoter:T4 Protein:T2
+R3	Interaction.Activation Target:E2 Agent:T1
+R4	Interaction.Activation Target:E3 Agent:T1

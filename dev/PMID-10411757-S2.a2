@@ -1,0 +1,6 @@
+T6	Action 194 220	post-translational control
+T7	Action 238 246	activity
+T8	Action 251 264	concentration
+E1	Action_Target:T7 Target:T5
+E2	Action_Target:T8 Target:T5
+R1	Interaction.Regulation Target:T1 Agent:T3

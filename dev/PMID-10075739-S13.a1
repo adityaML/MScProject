@@ -1,0 +1,6 @@
+T1	Protein 45 49	GerE
+T2	Gene 90 94	cotD
+T3	Site 118 131	upstream site
+T4	Site 166 181	downstream site
+N1	Gene_Identifier Annotation:T1 Referent:gerE
+N2	Gene_Identifier Annotation:T2 Referent:cotD

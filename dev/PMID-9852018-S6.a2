@@ -1,0 +1,4 @@
+T4	Action 21 32	transcribed
+E1	Action_Target:T4 Target:T1
+E2	Transcription_by:T4 Agent:T2
+R1	Interaction.Transcription Target:E1 Agent:T2

@@ -1,0 +1,6 @@
+T1	Protein 0 5	SpoVT
+T2	Protein 22 30	sigma(G)
+T3	Operon 68 72	gerK
+N1	Gene_Identifier Annotation:T1 Referent:spoVT
+N2	Gene_Identifier Annotation:T2 Referent:sigG
+N3	Gene_Identifier Annotation:T3 Referent:gerK

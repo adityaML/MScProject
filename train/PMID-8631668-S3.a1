@@ -1,0 +1,6 @@
+T1	Protein 14 21	sigma E
+T2	Protein 49 56	sigma F
+T3	Gene 71 77	spoIIR
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:spoIIR

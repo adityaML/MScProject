@@ -1,0 +1,2 @@
+Here we confirmed that gerR transcription is dependent on sigma(E)-containing RNA polymerase but also observed that it requires the transcriptional regulator SpoIIID.
+

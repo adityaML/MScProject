@@ -1,0 +1,4 @@
+T4	Action 108 117	expressed
+R1	Member_of_Regulon Member:T1 Regulon:T3
+R2	Master_of_Regulon Master:T2 Regulon:T3
+R3	Interaction.Regulation Target:T1 Agent:T2

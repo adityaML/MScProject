@@ -1,0 +1,4 @@
+T5	Action 29 41	localization
+T6	Action 65 75	expression
+E1	Action_Target:T5 Target:T1
+R1	Interaction.Transcription Target:T4 Agent:T2

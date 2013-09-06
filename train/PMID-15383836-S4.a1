@@ -1,0 +1,8 @@
+T1	Protein 4 12	sigma(E)
+T2	Protein 13 19	factor
+T3	Gene 60 64	GerR
+T4	Gene 69 76	SpoIIID
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:factor
+N3	Gene_Identifier Annotation:T3 Referent:gerR
+N4	Gene_Identifier Annotation:T4 Referent:spoIIID

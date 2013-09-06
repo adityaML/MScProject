@@ -1,0 +1,12 @@
+T9	Action 28 38	recognized
+T10	Action 139 149	recognized
+E1	Action_Target:T9 Target:T1
+E2	Action_Target:T9 Target:T2
+E3	Action_Target:T10 Target:T5
+E4	Transcription_by:T9 Agent:T4
+E5	Transcription_by:T10 Agent:T6
+E6	Transcription_by:T10 Agent:T8
+R1	Interaction.Transcription Target:E1 Agent:T4
+R2	Interaction.Transcription Target:E2 Agent:T4
+R3	Interaction.Transcription Target:E3 Agent:T6
+R4	Interaction.Transcription Target:E3 Agent:T8

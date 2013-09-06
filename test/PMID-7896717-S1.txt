@@ -1,0 +1,2 @@
+SpoIIID is a sequence-specific, DNA-binding protein that activates or represses transcription of different genes by sigma K RNA polymerase in vitro.
+

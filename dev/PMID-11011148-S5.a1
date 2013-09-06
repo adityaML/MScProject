@@ -1,0 +1,6 @@
+T1	Protein 5 9	SigK
+T2	Protein 14 18	GerE
+T3	Gene 38 42	ykvP
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:gerE
+N3	Gene_Identifier Annotation:T3 Referent:ykvP

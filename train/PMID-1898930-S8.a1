@@ -1,0 +1,8 @@
+T1	Gene 28 33	spo0H
+T2	PolymeraseComplex 56 87	major vegetative RNA polymerase
+T3	PolymeraseComplex 89 98	E sigma A
+T4	Protein 91 98	sigma A
+N1	Gene_Identifier Annotation:T1 Referent:sigH
+N2	Gene_Identifier Annotation:T2 Referent:major vegetative RNA polymerase
+N3	Gene_Identifier Annotation:T3 Referent:sigA
+N4	Gene_Identifier Annotation:T4 Referent:sigA

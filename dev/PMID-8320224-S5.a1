@@ -1,0 +1,7 @@
+T1	Protein 27 34	sigma E
+T2	PolymeraseComplex 94 113	core RNA polymerase
+T3	Protein 126 133	sigma E
+T4	Promoter 149 160	P2 promoter
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:core RNA polymerase
+N3	Gene_Identifier Annotation:T3 Referent:sigE

@@ -1,0 +1,6 @@
+T1	Gene 51 55	degR
+T2	Protein 72 96	alternative sigma factor
+T3	Protein 98 104	sigmaD
+N1	Gene_Identifier Annotation:T1 Referent:degR
+N2	Gene_Identifier Annotation:T2 Referent:alternative sigma factor
+N3	Gene_Identifier Annotation:T3 Referent:sigD

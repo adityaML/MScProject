@@ -1,0 +1,7 @@
+T1	Protein 73 77	GerE
+T2	Promoter 116 125	promoters
+T3	PolymeraseComplex 143 175	RNA polymerase containing sigmaK
+T4	Protein 169 175	sigmaK
+N1	Gene_Identifier Annotation:T1 Referent:gerE
+N2	Gene_Identifier Annotation:T3 Referent:sigK
+N3	Gene_Identifier Annotation:T4 Referent:sigK

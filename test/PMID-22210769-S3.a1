@@ -1,0 +1,6 @@
+T1	Protein 4 15	phosphatase
+T2	Protein 16 21	Spo0E
+T3	Protein 70 77	Spo0A~P
+N1	Gene_Identifier Annotation:T1 Referent:phosphatase
+N2	Gene_Identifier Annotation:T2 Referent:spo0E
+N3	Gene_Identifier Annotation:T3 Referent:spo0A

@@ -1,0 +1,8 @@
+T1	Protein 31 37	sigmaK
+T2	Gene 65 69	gerE
+T3	Protein 114 118	GerE
+T4	Protein 162 168	sigmaK
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:gerE
+N3	Gene_Identifier Annotation:T3 Referent:gerE
+N4	Gene_Identifier Annotation:T4 Referent:sigK

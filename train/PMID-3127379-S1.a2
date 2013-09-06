@@ -1,0 +1,4 @@
+T4	Action 23 36	transcription
+E1	Action_Target:T4 Target:T2
+E2	Transcription_from:T4 Site:T1
+R1	Promoter_of Gene:T2 Promoter:T1

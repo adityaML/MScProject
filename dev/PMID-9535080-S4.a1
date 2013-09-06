@@ -1,0 +1,8 @@
+T1	Site 4 32	start point of transcription
+T2	Promoter 58 66	promoter
+T3	Protein 81 87	sigmaA
+T4	Protein 89 95	sigmaB
+T5	Protein 100 106	sigmaD
+N1	Gene_Identifier Annotation:T3 Referent:sigA
+N2	Gene_Identifier Annotation:T4 Referent:sigB
+N3	Gene_Identifier Annotation:T5 Referent:sigD

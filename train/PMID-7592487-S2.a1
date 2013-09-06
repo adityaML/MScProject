@@ -1,0 +1,9 @@
+T1	Promoter 4 12	promoter
+T2	PolymeraseComplex 45 70;96 103	RNA polymerase containing sigma L
+T3	ProteinFamily 75 83	sigma 54
+T4	Protein 89 95	factor
+T5	Protein 96 103	sigma L
+N1	Gene_Identifier Annotation:T2 Referent:sigL
+N2	Gene_Identifier Annotation:T3 Referent:sigma 54
+N3	Gene_Identifier Annotation:T4 Referent:factor
+N4	Gene_Identifier Annotation:T5 Referent:sigL

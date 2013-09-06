@@ -1,0 +1,8 @@
+T1	Protein 0 7	SpoIIID
+T2	Protein 32 43	DNA-binding
+T3	PolymeraseComplex 116 138	sigma K RNA polymerase
+T4	Protein 116 123	sigma K
+N1	Gene_Identifier Annotation:T1 Referent:spoIIID
+N2	Gene_Identifier Annotation:T2 Referent:DNA-binding
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:sigK

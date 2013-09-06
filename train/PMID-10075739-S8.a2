@@ -1,0 +1,8 @@
+T5	Action 48 61	transcription
+T6	Action 148 158	production
+E1	Action_Target:T5 Target:T2
+E2	Action_Target:T6 Target:T4
+E3	Transcription_by:T5 Agent:T1
+E4	Transcription_by:T5 Agent:T1
+R1	Interaction.Regulation Target:E1 Agent:T1
+R2	Interaction.Inhibition Target:E2 Agent:T3

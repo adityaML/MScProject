@@ -1,0 +1,9 @@
+T1	PolymeraseComplex 67 90	sigma(A)-RNA polymerase
+T2	Protein 67 75	sigma(A)
+T3	Protein 100 105	Spo0A
+T4	Operon 116 122	spoIIG
+T5	Promoter 130 138	promoter
+N1	Gene_Identifier Annotation:T1 Referent:sigA
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:spo0A
+N4	Gene_Identifier Annotation:T4 Referent:spoIIG

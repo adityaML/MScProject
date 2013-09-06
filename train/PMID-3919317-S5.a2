@@ -1,0 +1,9 @@
+T8	Action 93 104	utilization
+E1	Action_Target:T8 Target:T2
+E2	Transcription_by:T8 Agent:T6
+E3	Transcription_by:T8 Agent:T4
+R1	Promoter_of Gene:T1 Promoter:T2
+R2	Master_of_Promoter Promoter:T2 Protein:T4
+R3	Master_of_Promoter Promoter:T2 Protein:T6
+R4	Interaction.Transcription Target:E1 Agent:T4
+R5	Interaction.Transcription Target:E1 Agent:T6

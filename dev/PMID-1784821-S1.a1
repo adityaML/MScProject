@@ -1,0 +1,6 @@
+T1	Protein 19 32	sigma factors
+T2	Protein 34 41	sigma F
+T3	Protein 46 53	sigma E
+N1	Gene_Identifier Annotation:T1 Referent:sigma factor
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:sigE

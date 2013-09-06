@@ -1,0 +1,4 @@
+T5	Action 115 123	capacity
+E1	Action_Target:T5 Target:T3
+R1	Interaction.Activation Target:T4 Agent:E1
+R2	Interaction.Inhibition Target:R1 Agent:T2

@@ -1,0 +1,4 @@
+R1	Interaction.Binding Target:T2 Agent:T1
+R2	Interaction.Inhibition Target:T2 Agent:T1
+R3	Bind_to DNA:T3 Protein:T1
+R4	Site_of Site:T3 Entity:T2

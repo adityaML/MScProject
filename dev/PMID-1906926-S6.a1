@@ -1,0 +1,8 @@
+T1	Protein 67 71	tagB
+T2	Operon 79 85	tagABC
+T3	Protein 97 101	tagF
+T4	Operon 109 115	tagDEF
+N1	Gene_Identifier Annotation:T1 Referent:tagB
+N2	Gene_Identifier Annotation:T2 Referent:tagABC
+N3	Gene_Identifier Annotation:T3 Referent:tagF
+N4	Gene_Identifier Annotation:T4 Referent:tagDEF

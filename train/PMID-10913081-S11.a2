@@ -1,0 +1,9 @@
+T6	Action 40 47	induced
+E1	Transcription_by:T6 Agent:T3
+E2	Transcription_by:T6 Agent:T5
+E3	Action_Target:T6 Target:T1
+E4	Action_Target:T6 Target:T2
+R1	Interaction.Transcription Target:E3 Agent:T3
+R2	Interaction.Activation Target:E4 Agent:T3
+R3	Interaction.Transcription Target:E3 Agent:T5
+R4	Interaction.Transcription Target:E4 Agent:T5

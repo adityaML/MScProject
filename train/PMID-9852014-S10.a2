@@ -1,0 +1,9 @@
+T7	Action 128 136	activity
+E1	Action_Target:T7 Target:T5
+R1	Master_of_Regulon Master:T5 Regulon:T6
+R2	Master_of_Regulon Master:T3 Regulon:T4
+R3	Master_of_Regulon Master:T2 Regulon:T4
+R4	Member_of_Regulon Member:T1 Regulon:T4
+R5	Interaction.Regulation Target:T1 Agent:T2
+R6	Interaction.Regulation Target:T1 Agent:T3
+R7	Interaction.Inhibition Target:E1 Agent:T1

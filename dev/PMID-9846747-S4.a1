@@ -1,0 +1,8 @@
+T1	Protein 76 82	sigmaA
+T2	Promoter 93 101	promoter
+T3	Gene 111 115	kdgR
+T4	Site 164 188	p-independent terminator
+T5	Gene 203 207	kdgT
+N1	Gene_Identifier Annotation:T1 Referent:sigA
+N2	Gene_Identifier Annotation:T3 Referent:kdgR
+N3	Gene_Identifier Annotation:T5 Referent:kdgT

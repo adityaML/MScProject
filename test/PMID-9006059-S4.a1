@@ -1,0 +1,9 @@
+T1	Protein 11 18	SpoIIID
+T2	Site 27 32	sites
+T3	Gene 52 57	spoVD
+T4	Promoter 58 66	promoter
+T5	Site 95 105	-35 region
+T6	Site 137 147	-10 region
+T7	Site 156 182	transcriptional start site
+N1	Gene_Identifier Annotation:T1 Referent:spoIIID
+N2	Gene_Identifier Annotation:T3 Referent:spoVD

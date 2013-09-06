@@ -1,0 +1,8 @@
+T1	Protein 62 73	phosphatase
+T2	Protein 97 103	SpoIIE
+T3	Protein 127 151	unphosphorylated SpoIIAA
+T4	Protein 164 170	sigmaF
+N1	Gene_Identifier Annotation:T1 Referent:phosphatase
+N2	Gene_Identifier Annotation:T2 Referent:spoIIE
+N3	Gene_Identifier Annotation:T3 Referent:spoIIAA
+N4	Gene_Identifier Annotation:T4 Referent:sigF

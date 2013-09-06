@@ -1,0 +1,2 @@
+The expression of the bkd operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor SigL, a member of the sigma 54 family.
+

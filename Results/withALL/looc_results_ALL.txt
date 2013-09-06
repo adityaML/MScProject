@@ -1,0 +1,897 @@
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 41
+
+Deletions: 22
+
+Insertions: 3
+
+Matches: 68
+
+Reference: 131
+
+Predictions: 112
+
+
+
+Slot Error Rate: 0.503816793893
+
+
+
+Recall: 0.519083969466
+
+Precision: 0.607142857143
+
+F-score: 0.559670781893
+
+
+
+Relaxed Slot Error Rate: 0.190839694656
+
+
+
+Relaxed Recall: 0.832061068702
+
+Relaxed Precision: 0.973214285714
+
+Relaxed F-score: 0.897119341564
+
+
+
+0.503816793893 0.01,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 45
+
+Deletions: 21
+
+Insertions: 4
+
+Matches: 65
+
+Reference: 131
+
+Predictions: 114
+
+
+
+Slot Error Rate: 0.534351145038
+
+
+
+Recall: 0.496183206107
+
+Precision: 0.570175438596
+
+F-score: 0.530612244898
+
+
+
+Relaxed Slot Error Rate: 0.190839694656
+
+
+
+Relaxed Recall: 0.839694656489
+
+Relaxed Precision: 0.964912280702
+
+Relaxed F-score: 0.897959183673
+
+
+
+0.534351145038 0.1,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 35
+
+Deletions: 16
+
+Insertions: 7
+
+Matches: 80
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.442748091603
+
+
+
+Recall: 0.610687022901
+
+Precision: 0.655737704918
+
+F-score: 0.632411067194
+
+
+
+Relaxed Slot Error Rate: 0.175572519084
+
+
+
+Relaxed Recall: 0.87786259542
+
+Relaxed Precision: 0.94262295082
+
+Relaxed F-score: 0.909090909091
+
+
+
+0.442748091603 1,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 35
+
+Deletions: 16
+
+Insertions: 7
+
+Matches: 80
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.442748091603
+
+
+
+Recall: 0.610687022901
+
+Precision: 0.655737704918
+
+F-score: 0.632411067194
+
+
+
+Relaxed Slot Error Rate: 0.175572519084
+
+
+
+Relaxed Recall: 0.87786259542
+
+Relaxed Precision: 0.94262295082
+
+Relaxed F-score: 0.909090909091
+
+
+
+0.442748091603 2,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 35
+
+Deletions: 14
+
+Insertions: 7
+
+Matches: 82
+
+Reference: 131
+
+Predictions: 124
+
+
+
+Slot Error Rate: 0.427480916031
+
+
+
+Recall: 0.625954198473
+
+Precision: 0.661290322581
+
+F-score: 0.643137254902
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.893129770992
+
+Relaxed Precision: 0.943548387097
+
+Relaxed F-score: 0.917647058824
+
+
+
+0.427480916031 3,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 34
+
+Deletions: 15
+
+Insertions: 6
+
+Matches: 82
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.419847328244
+
+
+
+Recall: 0.625954198473
+
+Precision: 0.672131147541
+
+F-score: 0.648221343874
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.950819672131
+
+Relaxed F-score: 0.916996047431
+
+
+
+0.419847328244 4,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 35
+
+Deletions: 15
+
+Insertions: 6
+
+Matches: 81
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.427480916031
+
+
+
+Recall: 0.618320610687
+
+Precision: 0.66393442623
+
+F-score: 0.640316205534
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.950819672131
+
+Relaxed F-score: 0.916996047431
+
+
+
+0.427480916031 5,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 35
+
+Deletions: 15
+
+Insertions: 6
+
+Matches: 81
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.427480916031
+
+
+
+Recall: 0.618320610687
+
+Precision: 0.66393442623
+
+F-score: 0.640316205534
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.950819672131
+
+Relaxed F-score: 0.916996047431
+
+
+
+0.427480916031 6,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 35
+
+Deletions: 15
+
+Insertions: 6
+
+Matches: 81
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.427480916031
+
+
+
+Recall: 0.618320610687
+
+Precision: 0.66393442623
+
+F-score: 0.640316205534
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.950819672131
+
+Relaxed F-score: 0.916996047431
+
+
+
+0.427480916031 7,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 36
+
+Deletions: 15
+
+Insertions: 7
+
+Matches: 80
+
+Reference: 131
+
+Predictions: 123
+
+
+
+Slot Error Rate: 0.442748091603
+
+
+
+Recall: 0.610687022901
+
+Precision: 0.650406504065
+
+F-score: 0.629921259843
+
+
+
+Relaxed Slot Error Rate: 0.167938931298
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.943089430894
+
+Relaxed F-score: 0.913385826772
+
+
+
+0.442748091603 8,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 37
+
+Deletions: 15
+
+Insertions: 7
+
+Matches: 79
+
+Reference: 131
+
+Predictions: 123
+
+
+
+Slot Error Rate: 0.450381679389
+
+
+
+Recall: 0.603053435115
+
+Precision: 0.642276422764
+
+F-score: 0.622047244094
+
+
+
+Relaxed Slot Error Rate: 0.167938931298
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.943089430894
+
+Relaxed F-score: 0.913385826772
+
+
+
+0.450381679389 9,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 38
+
+Deletions: 15
+
+Insertions: 7
+
+Matches: 78
+
+Reference: 131
+
+Predictions: 123
+
+
+
+Slot Error Rate: 0.458015267176
+
+
+
+Recall: 0.595419847328
+
+Precision: 0.634146341463
+
+F-score: 0.614173228346
+
+
+
+Relaxed Slot Error Rate: 0.167938931298
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.943089430894
+
+Relaxed F-score: 0.913385826772
+
+
+
+0.458015267176 10,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 40
+
+Deletions: 15
+
+Insertions: 6
+
+Matches: 76
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.465648854962
+
+
+
+Recall: 0.580152671756
+
+Precision: 0.622950819672
+
+F-score: 0.600790513834
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.950819672131
+
+Relaxed F-score: 0.916996047431
+
+
+
+0.465648854962 15,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 40
+
+Deletions: 15
+
+Insertions: 6
+
+Matches: 76
+
+Reference: 131
+
+Predictions: 122
+
+
+
+Slot Error Rate: 0.465648854962
+
+
+
+Recall: 0.580152671756
+
+Precision: 0.622950819672
+
+F-score: 0.600790513834
+
+
+
+Relaxed Slot Error Rate: 0.160305343511
+
+
+
+Relaxed Recall: 0.885496183206
+
+Relaxed Precision: 0.950819672131
+
+Relaxed F-score: 0.916996047431
+
+
+
+0.465648854962 20,5.0
+Reading corpus
+
+Schema validation:
+
+    ok
+
+Resolving interactions:
+
+    ok
+
+
+
+Evaluation:
+
+
+
+Substitutions: 39
+
+Deletions: 4
+
+Insertions: 2
+
+Matches: 24
+
+Reference: 67
+
+Predictions: 65
+
+
+
+Slot Error Rate: 0.671641791045
+
+
+
+Recall: 0.358208955224
+
+Precision: 0.369230769231
+
+F-score: 0.363636363636
+
+
+
+Relaxed Slot Error Rate: 0.089552238806
+
+
+
+Relaxed Recall: 0.940298507463
+
+Relaxed Precision: 0.969230769231
+
+Relaxed F-score: 0.954545454545
+
+
+
+[ 6.  3.  2.  1.  1.  1.  1.  2.  3.  6.  3.  1.  1.  3.  2.  3.  2.  3. 3.  2.  2.  6.  6.  6.  6.  6.  5.  1.  1.  6.  6.  2.  2.  1.  1. 1. 1.  6.  1.  6.  6.  6.  4.  6.  1.  1.  1.  2.  2.  2.  2.  2.  2.  2. 2.  6.  6.  6.  6.  6.  6.  6.  6.  6.  2.  4.  6.  2.  6.  2.  2.]
+[ 6.  1.  1.  3.  3.  6.  1.  2.  1.  3.  6.  6.  4.  6.  3.  3.  6.  6. 6.  2.  3.  6.  6.  6.  1.  6.  5.  4.  4.  2.  1.  3.  3.  1.  6.  2. 2.  1.  1.  6.  4.  4.  6.  6.  6.  6.  6.  2.  2.  2.  2.  3.  2.  2. 2.  6.  6.  6.  4.  4.  1.  1.  1.  1.  1.  2.  2.  3.  1.  3.  3.]
+defaultdict(<function <lambda> at 0xaa37e64>, {1: 16, 2: 20, 3: 7, 4: 2, 5: 1, 6: 25})
+defaultdict(<function <lambda> at 0xaa37f0c>, {1: 15, 2: 14, 3: 12, 4: 7, 5: 1, 6: 22})
+1:Regulation, 2:Activation, 3:Inhibition, 4:Requirement, 5:Binding, 6:Transcription
+
+
+
+0.503816793893 ['0.01', '5.0']
+0.534351145038 ['0.1', '5.0']
+0.442748091603 ['1', '5.0']
+0.442748091603 ['2', '5.0']
+0.427480916031 ['3', '5.0']
+0.419847328244 ['4', '5.0']
+0.427480916031 ['5', '5.0']
+0.427480916031 ['6', '5.0']
+0.427480916031 ['7', '5.0']
+0.442748091603 ['8', '5.0']
+0.450381679389 ['9', '5.0']
+0.458015267176 ['10', '5.0']
+0.465648854962 ['15', '5.0']
+0.465648854962 ['20', '5.0']
+
+
+MIP C=4.0 , threshold = 0.34
+
+Optimize a model with 142 rows, 426 columns and 568 nonzeros
+Presolve removed 141 rows and 421 columns
+Presolve time: 0.00s
+Presolved: 1 rows, 5 columns, 5 nonzeros
+Variable types: 0 continuous, 5 integer (5 binary)
+Found heuristic solution: objective -30.0964438
+Found heuristic solution: objective -30.4150758
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.041507583637e+01, best bound -3.041507583637e+01, gap 0.0%
+[[], [2.0], [2.0], [6.0], [1.0], [1.0], [1.0], [], [3.0], [6.0], [], [], [], [1.0], [1.0], [1.0], [], [3.0], [3.0], [2.0], [2.0], [6.0], [6.0], [6.0], [], [6.0], [5.0], [1.0, 6.0], [1.0], [6.0], [6.0], [1.0], [1.0], [1.0], [6.0], [], [], [1.0], [6.0], [6.0], [6.0], [6.0], [4.0], [1.0], [1.0], [6.0], [6.0], [6.0], [6.0], [6.0], [6.0], [6.0], [2.0], [2.0], [2.0], [6.0], [6.0], [6.0], [6.0], [6.0], [6.0], [6.0], [6.0], [6.0], [], [], [6.0], [2.0], [6.0], [1.0], [1.0]]
+[ 4.  2.  2.  6.  1.  1.  1.  2.  3.  6.  1.  2.  4.  1.  1.  1.  6.  3.
+  3.  2.  2.  6.  6.  6.  1.  6.  5.  6.  1.  6.  6.  1.  1.  1.  6.  2.
+  2.  6.  6.  6.  6.  6.  4.  1.  1.  6.  6.  6.  6.  6.  6.  6.  2.  2.
+  2.  6.  6.  6.  6.  6.  6.  6.  6.  6.  2.  3.  3.  2.  6.  1.  1.]
+Reading corpus
+Schema validation:
+ok
+Resolving interactions:
+ok
+
+Evaluation:
+
+Substitutions: 34
+Deletions: 14
+Insertions: 1
+Matches: 19
+Reference: 67
+Predictions: 54
+
+Slot Error Rate: 0.731343283582
+
+Recall: 0.283582089552
+Precision: 0.351851851852
+F-score: 0.314049586777
+
+Relaxed Slot Error Rate: 0.223880597015
+
+Relaxed Recall: 0.791044776119
+Relaxed Precision: 0.981481481481
+Relaxed F-score: 0.876033057851
+

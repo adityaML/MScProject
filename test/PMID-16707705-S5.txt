@@ -1,0 +1,2 @@
+SpoVT, a regulator of sigma(G)-dependent gene expression, repressed gerK expression.
+

@@ -1,0 +1,2 @@
+SpoIIAA, a phosphorylatable protein, is essential to the regulation of sigmaF, the first sporulation-specific transcription factor of Bacillus subtilis.
+

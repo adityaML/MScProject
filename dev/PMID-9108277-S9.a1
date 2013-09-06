@@ -1,0 +1,9 @@
+T1	Protein 36 40	ComK
+T2	Gene 62 66	degR
+T3	Protein 92 98	sigmaD
+T4	Gene 123 127	degR
+T5	Site 167 181	control region
+N1	Gene_Identifier Annotation:T1 Referent:comK
+N2	Gene_Identifier Annotation:T2 Referent:degR
+N3	Gene_Identifier Annotation:T3 Referent:sigD
+N4	Gene_Identifier Annotation:T4 Referent:degR

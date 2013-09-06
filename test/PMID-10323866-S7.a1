@@ -1,0 +1,8 @@
+T1	Protein 60 66	SpoIIE
+T2	Protein 105 109	FtsZ
+T3	Protein 138 142	FtsZ
+T4	Protein 165 171	SpoIIE
+N1	Gene_Identifier Annotation:T1 Referent:spoIIE
+N2	Gene_Identifier Annotation:T2 Referent:ftsZ
+N3	Gene_Identifier Annotation:T3 Referent:ftsZ
+N4	Gene_Identifier Annotation:T4 Referent:spoIIE

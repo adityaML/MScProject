@@ -1,0 +1,8 @@
+T1	Protein 31 36	spo0H
+T2	Protein 58 70	sigma factor
+T3	Protein 78 85	sigma H
+T4	Gene 146 151	spoVG
+N1	Gene_Identifier Annotation:T1 Referent:sigH
+N2	Gene_Identifier Annotation:T2 Referent:sigma factor
+N3	Gene_Identifier Annotation:T3 Referent:sigH
+N4	Gene_Identifier Annotation:T4 Referent:spoVG

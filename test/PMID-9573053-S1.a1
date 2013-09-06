@@ -1,0 +1,6 @@
+T1	Gene 4 10	spoIIE
+T2	Protein 72 92	transcription factor
+T3	Protein 93 99	sigmaF
+N1	Gene_Identifier Annotation:T1 Referent:spoIIE
+N2	Gene_Identifier Annotation:T2 Referent:transcription factor
+N3	Gene_Identifier Annotation:T3 Referent:sigF

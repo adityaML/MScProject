@@ -1,0 +1,6 @@
+T1	Protein 4 8	BofC
+T2	Protein 69 81	pro-sigma(K)
+T3	Protein 100 108	sigma(K)
+N1	Gene_Identifier Annotation:T1 Referent:bofC
+N2	Gene_Identifier Annotation:T2 Referent:sigK
+N3	Gene_Identifier Annotation:T3 Referent:sigK

@@ -1,0 +1,10 @@
+T1	mRNA 0 5	spo0H
+T2	Protein 14 21	sigma H
+T3	Gene 110 115	spoVG
+T4	PolymeraseComplex 139 148	E sigma H
+T5	Protein 141 148	sigma H
+N1	Gene_Identifier Annotation:T1 Referent:sigH
+N2	Gene_Identifier Annotation:T2 Referent:sigH
+N3	Gene_Identifier Annotation:T3 Referent:spoVG
+N4	Gene_Identifier Annotation:T4 Referent:sigH
+N5	Gene_Identifier Annotation:T5 Referent:sigH

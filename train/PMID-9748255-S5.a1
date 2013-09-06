@@ -1,0 +1,9 @@
+T1	Protein 5 12	Spo0A~P
+T2	ProteinComplex 17 24	Spo0ABD
+T3	Operon 59 65	spoIIG
+T4	Promoter 66 74	promoter
+T5	Protein 105 110	Spo0A
+N1	Gene_Identifier Annotation:T1 Referent:spo0A
+N2	Gene_Identifier Annotation:T2 Referent:Spo0ABD
+N3	Gene_Identifier Annotation:T3 Referent:spoIIG
+N4	Gene_Identifier Annotation:T5 Referent:spo0A

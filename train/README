@@ -1,0 +1,56 @@
+Training Data for BioNLP'13 Shared Task on Event Extraction -- Gene Regulation Network task
+
+
+- Contains 86 sentences with manual annotations of entities, events and relations.
+
+- For format details, please refer to the following address:
+
+  http://2013.bionlp-st.org/file-formats
+
+
+
+
+Contents
+--------
+
+This directory contains the training set texts and annotations for 86 sentences extracted from PubMed abstracts on the topic of the genic regulation of the sporulation in Bacillus subtilis.
+Each sentence has three files named after an unique identifier in the following form:
+
+        PMID-*-S?
+
+The '*' is the place of the PubMed identifier of the document from which the sentence was extracted. The '?' is the sentence ordinal in the PubMed abstract.
+
+        *.txt files contain the sentence text, each newline denotes a paragraph break.
+
+        *.a1  files contain entity annotations (genes, proteins, operons, etc.). These files will be provided to the participants for training and testing.
+
+        *.a2  files contain event and relation annotations. These files are provided to the participants for training only.
+
+
+`train.sif' is the gene regulation network corresponding to the annotations of the training documents. The SIF format is recognized by Cytoscape (http://www.cytoscape.org/), a software for visualizing graphs. For more details on how the graph is inferred from the annotations, see: https://sites.google.com/site/bionlpst2013/tasks/gene-regulation-network.
+The `GRN.props' file is also readable by Cytoscape; it contains a configuration in order to visualize a network with the same graphical attributes than the image in the task presentation page: https://sites.google.com/site/bionlpst2013/tasks/gene-regulation-network.
+
+
+
+
+
+History
+-------
+
+19 October 2012, sample data release
+ 9 January 2013, texts of train data release
+17 January 2013, training and development data release
+
+
+
+
+Authors
+-------
+
+BioNLP'13 Shared Task organizers,
+bionlpsharedtask@gmail.com
+https://sites.google.com/site/bionlpst2013
+
+For questions and remarks concerning specifically the Gene Regulation Network:
+Robert Bossy
+Robert.Bossy@jouy.inra.fr

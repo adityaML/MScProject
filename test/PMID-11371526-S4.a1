@@ -1,0 +1,16 @@
+T1	PolymeraseComplex 55 89	RNA polymerase containing sigma(F)
+T2	Protein 81 89	sigma(F)
+T3	PolymeraseComplex 91 101	E-sigma(F)
+T4	Protein 93 101	sigma(F)
+T5	PolymeraseComplex 178 188	E-sigma(F)
+T6	Protein 180 188	sigma(F)
+T7	Gene 190 196	spoIIR
+T8	Gene 201 207	spoIIQ
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:sigF
+N4	Gene_Identifier Annotation:T4 Referent:sigF
+N5	Gene_Identifier Annotation:T5 Referent:sigF
+N6	Gene_Identifier Annotation:T6 Referent:sigF
+N7	Gene_Identifier Annotation:T7 Referent:spoIIR
+N8	Gene_Identifier Annotation:T8 Referent:spoIIQ

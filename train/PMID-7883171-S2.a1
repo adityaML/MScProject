@@ -1,0 +1,6 @@
+T1	Protein 14 21	sigma E
+T2	Protein 33 40	sigma F
+T3	Protein 46 52	factor
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:forespore-specific sigma factor

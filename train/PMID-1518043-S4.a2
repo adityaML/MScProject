@@ -1,0 +1,5 @@
+R1	Promoter_of Gene:T6 Promoter:T4
+R2	Promoter_of Gene:T5 Promoter:T4
+R3	Interaction.Binding Target:T5 Agent:T1
+R4	Interaction.Binding Target:T6 Agent:T1
+R5	Master_of_Promoter Promoter:T4 Protein:T1

@@ -1,0 +1,12 @@
+T1	Protein 4 16	pro-sigma(K)
+T2	Protein 35 42	SpoIVFB
+T3	Protein 46 79	membrane-embedded metalloprotease
+T4	Protein 111 128	integral membrane
+T5	Protein 139 146	SpoIVFA
+T6	Protein 151 155	BofA
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:spoIVFB
+N3	Gene_Identifier Annotation:T3 Referent:membrane-embedded metalloprotease
+N4	Gene_Identifier Annotation:T4 Referent:integral membrane
+N5	Gene_Identifier Annotation:T5 Referent:spoIVFA
+N6	Gene_Identifier Annotation:T6 Referent:bofA

@@ -1,0 +1,13 @@
+T1	Operon 4 10	spoIIG
+T2	Promoter 11 19	promoter
+T3	PolymeraseComplex 31 64	RNA polymerase containing sigma A
+T4	Protein 57 64	sigma A
+T5	PolymeraseComplex 66 75	E sigma A
+T6	Protein 68 75	sigma A
+T7	PolymeraseComplex 82 112	primary form of RNA polymerase
+N1	Gene_Identifier Annotation:T1 Referent:spoIIG
+N2	Gene_Identifier Annotation:T3 Referent:sigA
+N3	Gene_Identifier Annotation:T4 Referent:sigA
+N4	Gene_Identifier Annotation:T5 Referent:sigA
+N5	Gene_Identifier Annotation:T6 Referent:sigA
+N6	Gene_Identifier Annotation:T7 Referent:sigA

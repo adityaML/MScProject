@@ -1,0 +1,8 @@
+T6	Action 62 73	transcribed
+E1	Action_Target:T6 Target:T1
+E2	Transcription_from:T6 Site:T3
+E3	Transcription_by:T6 Agent:T2
+R1	Promoter_of Gene:T1 Promoter:T3
+R2	Master_of_Promoter Promoter:T3 Protein:T2
+R3	Site_of Site:T4 Entity:T5
+R4	Interaction.Transcription Target:E1 Agent:T2

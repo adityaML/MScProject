@@ -1,0 +1,2 @@
+Engulfment also triggers the proteolytic cleavage of SpoIIQ, an event that depends on the SpoIVB protease but not on sigmaG activity.
+

@@ -1,0 +1,10 @@
+T1	Protein 4 10	SpoIIE
+T2	Protein 11 22	phosphatase
+T3	Protein 44 50	sigmaF
+T4	Protein 83 92	SpoIIAA-P
+T5	Protein 143 163	transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:spoIIE
+N2	Gene_Identifier Annotation:T2 Referent:phosphatase
+N3	Gene_Identifier Annotation:T3 Referent:sigF
+N4	Gene_Identifier Annotation:T4 Referent:spoIIAA
+N5	Gene_Identifier Annotation:T5 Referent:transcription factor

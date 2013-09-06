@@ -1,0 +1,9 @@
+T6	Action 67 77	expression
+T7	Action 106 119	transcription
+E1	Action_Target:T6 Target:T2
+E2	Action_Target:T7 Target:T4
+E3	Transcription_by:T7 Agent:T3
+R1	Site_of Site:T5 Entity:T4
+R2	Interaction.Inhibition Target:E1 Agent:T1
+R3	Interaction.Transcription Target:E2 Agent:T3
+R4	Interaction.Inhibition Target:R3 Agent:T1

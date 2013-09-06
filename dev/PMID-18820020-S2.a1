@@ -1,0 +1,10 @@
+T1	Protein 14 22	sigma(G)
+T2	Gene 51 58	spoIIIJ
+T3	Protein 73 101	membrane protein translocase
+T4	ProteinFamily 109 124	YidC/Oxa1p/Alb3
+T5	Operon 165 172	spoIIIA
+N1	Gene_Identifier Annotation:T1 Referent:sigG
+N2	Gene_Identifier Annotation:T2 Referent:spoIIIJ
+N3	Gene_Identifier Annotation:T3 Referent:membrane protein translocase
+N4	Gene_Identifier Annotation:T4 Referent:YidC/Oxa1p/Alb3
+N5	Gene_Identifier Annotation:T5 Referent:spoIIIA

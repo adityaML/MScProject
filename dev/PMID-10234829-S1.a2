@@ -1,0 +1,4 @@
+T3	Action 0 17	Dephosphorylation
+T4	Action 70 78	presence
+E1	Action_Target:T3 Target:T1
+R1	Interaction.Regulation Target:T1 Agent:T2

@@ -1,0 +1,4 @@
+R1	Master_of_Promoter Promoter:T4 Protein:T3
+R2	Promoter_of Gene:T1 Promoter:T4
+R3	Interaction.Transcription Target:T1 Agent:T3
+R4	Interaction.Transcription Target:T1 Agent:T2

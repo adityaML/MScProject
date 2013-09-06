@@ -1,0 +1,14 @@
+T1	Gene 4 7	ald
+T2	Promoter 8 16	promoter
+T3	Gene 27 31	sigE
+T4	Promoter 32 40	promoter
+T5	PolymeraseComplex 74 95	sigmaA RNA polymerase
+T6	Protein 74 80	sigmaA
+T7	Protein 113 119	sigmaK
+T8	Protein 132 138	sigmaA
+N1	Gene_Identifier Annotation:T1 Referent:ald
+N2	Gene_Identifier Annotation:T3 Referent:sigE
+N3	Gene_Identifier Annotation:T5 Referent:sigA
+N4	Gene_Identifier Annotation:T6 Referent:sigA
+N5	Gene_Identifier Annotation:T7 Referent:sigK
+N6	Gene_Identifier Annotation:T8 Referent:sigA

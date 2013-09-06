@@ -1,0 +1,7 @@
+T1	Gene 32 36	ykzA
+T2	Protein 79 103	alternative sigma factor
+T3	Protein 104 110	sigmaB
+T4	Regulon 163 170	regulon
+N1	Gene_Identifier Annotation:T1 Referent:ohrB
+N2	Gene_Identifier Annotation:T2 Referent:alternative sigma factor
+N3	Gene_Identifier Annotation:T3 Referent:sigB

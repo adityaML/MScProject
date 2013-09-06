@@ -1,0 +1,10 @@
+T1	Protein 0 6	SigmaE
+T2	Protein 48 58	pro-sigmaE
+T3	Protein 86 99	mature factor
+T4	Protein 116 133	processing enzyme
+T5	Protein 134 141	SpoIIGA
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:mature factor
+N4	Gene_Identifier Annotation:T4 Referent:processing enzyme
+N5	Gene_Identifier Annotation:T5 Referent:spoIIGA

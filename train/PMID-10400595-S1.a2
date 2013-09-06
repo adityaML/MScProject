@@ -1,0 +1,5 @@
+T5	Action 89 102	transcription
+E1	Transcription_from:T5 Site:T2
+E2	Transcription_by:T5 Agent:T3
+R1	Master_of_Promoter Promoter:T2 Protein:T3
+R2	Interaction.Activation Target:E2 Agent:T1

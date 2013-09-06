@@ -1,0 +1,9 @@
+T1	Gene 17 21	amyE
+T2	Promoter 48 56	promoter
+T3	PolymeraseComplex 75 114	major vegetative form of RNA polymerase
+T4	PolymeraseComplex 116 126	E sigma 43
+T5	Protein 118 126	sigma 43
+N1	Gene_Identifier Annotation:T1 Referent:amyE
+N2	Gene_Identifier Annotation:T3 Referent:sigA
+N3	Gene_Identifier Annotation:T4 Referent:sigA
+N4	Gene_Identifier Annotation:T5 Referent:sigA

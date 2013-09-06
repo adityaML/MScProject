@@ -1,0 +1,5 @@
+T5	Action 14 24	activation
+T6	Action 147 155	activity
+E1	Action_Target:T6 Target:T4
+E2	Action_Target:T5 Target:T2
+R1	Interaction.Requirement Target:E2 Agent:E1

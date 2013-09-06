@@ -1,0 +1,10 @@
+T1	Gene 61 65	abrB
+T2	Gene 69 74	spoVC
+T3	Gene 147 151	yabG
+T4	Promoter 169 177	promoter
+T5	Site 178 186	sequence
+T6	Protein 203 207	SigK
+N1	Gene_Identifier Annotation:T1 Referent:abrB
+N2	Gene_Identifier Annotation:T2 Referent:spoVC
+N3	Gene_Identifier Annotation:T3 Referent:yabG
+N4	Gene_Identifier Annotation:T6 Referent:sigK

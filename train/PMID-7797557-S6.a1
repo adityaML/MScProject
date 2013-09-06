@@ -1,0 +1,4 @@
+T1	Protein 31 35	dltB
+T2	Protein 40 44	dltD
+N1	Gene_Identifier Annotation:T1 Referent:dltB
+N2	Gene_Identifier Annotation:T2 Referent:dltD

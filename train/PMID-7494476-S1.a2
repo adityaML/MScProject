@@ -1,0 +1,8 @@
+T10	Action 74 84	recognized
+E1	Action_Target:T10 Target:T2
+E2	Transcription_by:T10 Agent:T2
+R1	Site_of Site:T8 Entity:T3
+R2	Site_of Site:T9 Entity:T3
+R3	Promoter_of Gene:T2 Promoter:T3
+R4	Master_of_Promoter Promoter:T3 Protein:T5
+R5	Interaction.Transcription Target:E1 Agent:T5

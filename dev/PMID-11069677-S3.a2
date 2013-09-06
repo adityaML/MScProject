@@ -1,0 +1,17 @@
+T15	Action 23 31	activity
+T16	Action 108 121	transcription
+T17	Action 149 154	level
+T18	Action 213 223	production
+T19	Action 270 277	absence
+E1	Action_Target:T15 Target:T6
+E2	Action_Target:T19 Target:T13
+E3	Action_Target:T15 Target:T4
+E4	Action_Target:T18 Target:T12
+E5	Action_Target:T19 Target:T14
+E6	Action_Target:T15 Target:T3
+E7	Action_Target:T15 Target:T2
+E8	Action_Target:T17 Target:T9
+E9	Action_Target:T16 Target:T8
+R1	Interaction.Activation Target:E4 Agent:T10
+R2	Interaction.Activation Target:E4 Agent:T11
+R3	Interaction.Regulation Target:E9 Agent:E8

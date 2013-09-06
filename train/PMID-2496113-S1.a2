@@ -1,0 +1,4 @@
+T7	Action 89 100	transcribed
+E1	Action_Target:T7 Target:T2
+E2	Transcription_by:T7 Agent:T4
+R1	Interaction.Transcription Target:E1 Agent:T4

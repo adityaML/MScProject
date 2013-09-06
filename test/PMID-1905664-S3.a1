@@ -1,0 +1,10 @@
+T1	PolymeraseComplex 14 36	sigma H-RNA polymerase
+T2	Protein 14 21	sigma H
+T3	Operon 49 55	spoIIA
+T4	Protein 93 100	sigma H
+T5	Operon 126 132	spoIIA
+N1	Gene_Identifier Annotation:T1 Referent:sigH
+N2	Gene_Identifier Annotation:T2 Referent:sigH
+N3	Gene_Identifier Annotation:T3 Referent:spoIIA
+N4	Gene_Identifier Annotation:T4 Referent:sigH
+N5	Gene_Identifier Annotation:T5 Referent:spoIIA

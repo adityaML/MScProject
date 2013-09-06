@@ -1,0 +1,6 @@
+T4	Action 4 14	expression
+E1	Action_Target:T4 Target:T1
+E2	Transcription_by:T4 Agent:T2
+E3	Transcription_by:T4 Agent:T3
+R1	Interaction.Transcription Target:E1 Agent:T3
+R2	Interaction.Transcription Target:E1 Agent:T2

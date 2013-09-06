@@ -1,0 +1,11 @@
+T1	Gene 11 15	ftsY
+T2	Protein 62 70	sigma(K)
+T3	Protein 76 80	GerE
+T4	Promoter 92 100	promoter
+T5	Gene 141 145	ftsY
+T6	Gene 157 160	smc
+N1	Gene_Identifier Annotation:T1 Referent:ftsY
+N2	Gene_Identifier Annotation:T2 Referent:sigK
+N3	Gene_Identifier Annotation:T3 Referent:gerE
+N4	Gene_Identifier Annotation:T5 Referent:ftsY
+N5	Gene_Identifier Annotation:T6 Referent:smc

@@ -1,0 +1,2 @@
+Two signaling serine proteases, SpoIVB and CtpB, trigger pro-sigma(K) processing by cleaving the regulatory protein SpoIVFA.
+

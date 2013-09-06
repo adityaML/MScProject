@@ -1,0 +1,12 @@
+R1	Promoter_of Gene:T3 Promoter:T4
+R2	Promoter_of Gene:T6 Promoter:T7
+R3	Bind_to DNA:T2 Protein:T1
+R4	Bind_to DNA:T5 Protein:T1
+R5	Site_of Site:T2 Entity:T4
+R6	Site_of Site:T5 Entity:T7
+R7	Interaction.Binding Target:T3 Agent:T1
+R8	Interaction.Binding Target:T6 Agent:T1
+R9	Interaction.Binding Target:T8 Agent:T1
+R10	Master_of_Promoter Promoter:T4 Protein:T1
+R11	Master_of_Promoter Promoter:T7 Protein:T1
+M1	Negation R9

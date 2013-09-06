@@ -1,0 +1,6 @@
+R1	Interaction.Transcription Target:T7 Agent:T2
+R2	Interaction.Transcription Target:T7 Agent:T4
+R3	Promoter_of Gene:T7 Promoter:T6
+R4	Site_of Site:T8 Entity:T7
+R5	Master_of_Promoter Promoter:T6 Protein:T2
+R6	Master_of_Promoter Promoter:T6 Protein:T4

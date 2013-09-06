@@ -1,0 +1,15 @@
+T1	Gene 4 8	rocG
+T2	Protein 47 80	catabolic glutamate dehydrogenase
+T3	PolymeraseComplex 100 130	SigL-containing RNA polymerase
+T4	Protein 100 104	SigL
+T5	Protein 163 167	RocR
+T6	ProteinFamily 185 194	NtrC/NifA
+T7	Site 227 249	enhancer-like elements
+T8	Site 258 287	upstream activating sequences
+T9	Site 289 292	UAS
+N1	Gene_Identifier Annotation:T1 Referent:rocG
+N2	Gene_Identifier Annotation:T2 Referent:catabolic glutamate dehydrogenase
+N3	Gene_Identifier Annotation:T3 Referent:sigL
+N4	Gene_Identifier Annotation:T4 Referent:sigL
+N5	Gene_Identifier Annotation:T5 Referent:rocR
+N6	Gene_Identifier Annotation:T6 Referent:NtrC/NifA

@@ -1,0 +1,12 @@
+T1	Gene 54 57	ctc
+T2	Promoter 58 66	promoter
+T3	Promoter 112 120	promoter
+T4	PolymeraseComplex 124 134	E sigma 37
+T5	Protein 126 134	sigma 37
+T6	PolymeraseComplex 138 148	E sigma 29
+T7	Protein 140 148	sigma 29
+N1	Gene_Identifier Annotation:T1 Referent:ctc
+N2	Gene_Identifier Annotation:T4 Referent:sigB
+N3	Gene_Identifier Annotation:T5 Referent:sigB
+N4	Gene_Identifier Annotation:T6 Referent:sigE
+N5	Gene_Identifier Annotation:T7 Referent:sigE

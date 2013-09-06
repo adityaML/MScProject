@@ -1,0 +1,5 @@
+T4	Action 46 56	expression
+T5	Action 83 90	induced
+E1	Transcription_from:T4 Site:T2
+R1	Promoter_of Gene:T1 Promoter:T2
+R2	Interaction.Inhibition Target:E1 Agent:T3

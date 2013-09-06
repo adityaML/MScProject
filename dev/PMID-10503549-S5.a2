@@ -1,0 +1,6 @@
+T6	Action 30 35	level
+T7	Action 44 49	level
+T8	Action 136 144	activity
+E1	Action_Target:T8 Target:T5
+E2	Action_Target:T6 Target:T1
+R1	Interaction.Transcription Target:E2 Agent:T2

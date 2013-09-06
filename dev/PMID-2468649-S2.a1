@@ -1,0 +1,10 @@
+T1	PolymeraseComplex 44 77	RNA polymerase containing sigma G
+T2	Protein 70 77	sigma G
+T3	PolymeraseComplex 79 88	E sigma G
+T4	Protein 81 88	sigma G
+T5	Protein 110 114	sigG
+N1	Gene_Identifier Annotation:T1 Referent:sigG
+N2	Gene_Identifier Annotation:T2 Referent:sigG
+N3	Gene_Identifier Annotation:T3 Referent:sigG
+N4	Gene_Identifier Annotation:T4 Referent:sigG
+N5	Gene_Identifier Annotation:T5 Referent:sigG

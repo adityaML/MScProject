@@ -1,0 +1,9 @@
+T6	Action 44 57	transcription
+E1	Transcription_by:T6 Agent:T1
+E2	Transcription_from:T6 Site:T5
+E3	Action_Target:T6 Target:T4
+R1	Promoter_of Gene:T4 Promoter:T5
+R2	Master_of_Promoter Promoter:T5 Protein:T3
+R3	Master_of_Promoter Promoter:T5 Protein:T1
+R4	Interaction.Regulation Target:T4 Agent:T3
+R5	Interaction.Transcription Target:E3 Agent:T1

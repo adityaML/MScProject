@@ -1,0 +1,5 @@
+T1	Gene 28 32	gerD
+T2	Protein 58 65	sigma G
+T3	Regulon 66 73	regulon
+N1	Gene_Identifier Annotation:T1 Referent:gerD
+N2	Gene_Identifier Annotation:T2 Referent:sigG

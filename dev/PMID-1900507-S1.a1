@@ -1,0 +1,10 @@
+T1	Gene 4 8	sspB
+T2	Gene 13 17	sspE
+T3	Protein 46 58	acid-soluble
+T4	PolymeraseComplex 138 171	RNA polymerase containing sigma G
+T5	Protein 164 171	sigma G
+N1	Gene_Identifier Annotation:T1 Referent:sspB
+N2	Gene_Identifier Annotation:T2 Referent:sspE
+N3	Gene_Identifier Annotation:T3 Referent:acid-soluble
+N4	Gene_Identifier Annotation:T4 Referent:sigG
+N5	Gene_Identifier Annotation:T5 Referent:sigG

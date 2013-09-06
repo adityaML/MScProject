@@ -1,0 +1,4 @@
+T1	Protein 92 98	sigmaE
+T2	Protein 132 138	sigmaF
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:sigF

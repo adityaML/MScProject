@@ -1,0 +1,9 @@
+T1	Gene 17 21	cheV
+T2	Protein 39 46	sigma D
+T3	Promoter 57 65	promoter
+T4	Gene 121 125	cheV
+T5	Gene 165 169	sigD
+N1	Gene_Identifier Annotation:T1 Referent:cheV
+N2	Gene_Identifier Annotation:T2 Referent:sigD
+N3	Gene_Identifier Annotation:T4 Referent:cheV
+N4	Gene_Identifier Annotation:T5 Referent:sigD

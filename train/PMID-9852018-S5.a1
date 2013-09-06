@@ -1,0 +1,4 @@
+T1	Gene 0 4	sspG
+T2	Protein 57 61	GerE
+N1	Gene_Identifier Annotation:T1 Referent:sspG
+N2	Gene_Identifier Annotation:T2 Referent:gerE

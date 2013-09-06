@@ -1,0 +1,10 @@
+T1	Protein 34 38	SinR
+T2	Gene 101 105	sp0A
+T3	Operon 107 113	spoIIA
+T4	Operon 128 134	spoIIG
+T5	Gene 139 145	spoIIE
+N1	Gene_Identifier Annotation:T1 Referent:sinR
+N2	Gene_Identifier Annotation:T2 Referent:spo0A
+N3	Gene_Identifier Annotation:T3 Referent:spoIIA
+N4	Gene_Identifier Annotation:T4 Referent:spoIIG
+N5	Gene_Identifier Annotation:T5 Referent:spoIIE

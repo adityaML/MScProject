@@ -1,0 +1,8 @@
+T1	Protein 45 51	SpoIVA
+T2	Gene 109 115	spoIVA
+T3	Protein 146 178	mother cell transcription factor
+T4	Protein 179 185	sigmaE
+N1	Gene_Identifier Annotation:T1 Referent:spoIVA
+N2	Gene_Identifier Annotation:T2 Referent:spoIVA
+N3	Gene_Identifier Annotation:T3 Referent:mother cell transcription factor
+N4	Gene_Identifier Annotation:T4 Referent:sigE

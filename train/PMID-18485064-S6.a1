@@ -1,0 +1,6 @@
+T1	Protein 60 68	SpoIIIAH
+T2	Protein 73 79	SpoIIQ
+T3	Protein 135 143	sigma(G)
+N1	Gene_Identifier Annotation:T1 Referent:spoIIIAH
+N2	Gene_Identifier Annotation:T2 Referent:spoIIQ
+N3	Gene_Identifier Annotation:T3 Referent:sigG

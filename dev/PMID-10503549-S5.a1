@@ -1,0 +1,10 @@
+T1	Protein 39 43	KatX
+T2	PolymeraseComplex 89 96	EsigmaF
+T3	Protein 90 96	sigmaF
+T4	Gene 106 110	sigB
+T5	Protein 131 135	KatX
+N1	Gene_Identifier Annotation:T1 Referent:katX
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:sigF
+N4	Gene_Identifier Annotation:T4 Referent:sigB
+N5	Gene_Identifier Annotation:T5 Referent:katX

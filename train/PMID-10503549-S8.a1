@@ -1,0 +1,6 @@
+T1	Protein 44 50	sigmaB
+T2	Regulon 51 58	regulon
+T3	Protein 67 73	sigmaF
+T4	Regulon 74 81	regulon
+N1	Gene_Identifier Annotation:T1 Referent:sigB
+N2	Gene_Identifier Annotation:T3 Referent:sigF

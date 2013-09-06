@@ -1,0 +1,6 @@
+T1	Protein 34 54	transcription factor
+T2	Protein 55 61	sigmaF
+T3	Protein 143 150	SpoIIAB
+N1	Gene_Identifier Annotation:T1 Referent:transcription factor
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:spoIIAB

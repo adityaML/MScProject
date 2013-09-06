@@ -1,0 +1,6 @@
+T1	Protein 0 7	SpoIIAB
+T2	Protein 18 32	protein kinase
+T3	Protein 53 60	SpoIIAA
+N1	Gene_Identifier Annotation:T1 Referent:spoIIAB
+N2	Gene_Identifier Annotation:T2 Referent:protein kinase
+N3	Gene_Identifier Annotation:T3 Referent:spoIIAA

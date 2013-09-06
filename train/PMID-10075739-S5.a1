@@ -1,0 +1,5 @@
+T1	Protein 19 23	GerE
+T2	Gene 39 43	sigK
+T3	Site 44 70	transcriptional start site
+N1	Gene_Identifier Annotation:T1 Referent:gerE
+N2	Gene_Identifier Annotation:T2 Referent:sigK

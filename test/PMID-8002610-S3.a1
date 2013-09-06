@@ -1,0 +1,6 @@
+T1	Gene 4 11	sigma B
+T2	Gene 29 33	sigB
+T3	Protein 118 125	sigma B
+N1	Gene_Identifier Annotation:T1 Referent:sigB
+N2	Gene_Identifier Annotation:T2 Referent:sigB
+N3	Gene_Identifier Annotation:T3 Referent:sigB

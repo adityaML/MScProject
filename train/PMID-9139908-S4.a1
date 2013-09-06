@@ -1,0 +1,14 @@
+T1	Protein 29 37	sigma(X)
+T2	PolymeraseComplex 96 104;118 129	sigma(A) holoenzymes
+T3	Protein 96 104	sigma(A)
+T4	PolymeraseComplex 109 129	sigma(X) holoenzymes
+T5	Protein 109 117	sigma(X)
+T6	Promoter 140 148	promoter
+T7	Operon 169 178	sigX-ypuN
+T8	Site 179 193	control region
+N1	Gene_Identifier Annotation:T1 Referent:sigX
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:sigA
+N4	Gene_Identifier Annotation:T4 Referent:sigX
+N5	Gene_Identifier Annotation:T5 Referent:sigX
+N6	Gene_Identifier Annotation:T7 Referent:sigX-ypuN

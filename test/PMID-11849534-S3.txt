@@ -1,0 +1,2 @@
+SigmaE is synthesized as an inactive proprotein pro-sigmaE, which is converted to the mature factor by the putative processing enzyme SpoIIGA.
+

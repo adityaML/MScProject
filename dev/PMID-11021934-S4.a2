@@ -1,0 +1,10 @@
+T7	Action 26 35	expressed
+E1	Action_Target:T7 Target:T1
+E2	Transcription_from:T7 Site:T4
+E3	Transcription_by:T7 Agent:T2
+R1	Promoter_of Gene:T5 Promoter:T4
+R2	Master_of_Promoter Promoter:T4 Protein:T3
+R3	Master_of_Promoter Promoter:T4 Protein:T2
+R4	Interaction.Transcription Target:E1 Agent:T2
+R5	Interaction.Requirement Target:E1 Agent:T3
+R6	Interaction.Requirement Target:E1 Agent:T2

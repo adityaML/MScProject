@@ -1,0 +1,2 @@
+The predicted CheV gene product contains an amino-terminal CheW homologous domain linked to a response regulator domain of the CheY family, suggesting that either or both of these functions are duplicated.
+

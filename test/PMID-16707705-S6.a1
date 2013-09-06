@@ -1,0 +1,9 @@
+T1	Operon 4 8	gerK
+T2	Promoter 9 17	promoter
+T3	Gene 50 58	sigma(G)
+T4	Promoter 69 78	promoters
+T5	Promoter 122 130	promoter
+T6	Operon 141 145	gerK
+N1	Gene_Identifier Annotation:T1 Referent:gerK
+N2	Gene_Identifier Annotation:T3 Referent:sigG
+N3	Gene_Identifier Annotation:T6 Referent:gerK

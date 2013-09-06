@@ -1,0 +1,2 @@
+The SpoIVB signal is absolutely required to activate pro-sigma(K) processing and is derived from the forespore compartment.
+

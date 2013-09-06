@@ -1,0 +1,4 @@
+T4	Action 121 131	activation
+E1	Action_Target:T4 Target:T3
+R1	Interaction.Activation Target:E1 Agent:T1
+R2	Interaction.Activation Target:E1 Agent:T2

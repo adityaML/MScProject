@@ -1,0 +1,4 @@
+T1	Protein 21 30	SpoIIAA-P
+T2	Protein 34 40	SpoIIE
+N1	Gene_Identifier Annotation:T1 Referent:spoIIAA
+N2	Gene_Identifier Annotation:T2 Referent:spoIIE

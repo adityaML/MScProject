@@ -1,0 +1,5 @@
+T1	Gene 25 29	katX
+T2	Protein 80 86	sigmaF
+T3	Regulon 87 94	regulon
+N1	Gene_Identifier Annotation:T1 Referent:katX
+N2	Gene_Identifier Annotation:T2 Referent:sigF

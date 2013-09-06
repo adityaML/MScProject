@@ -1,0 +1,6 @@
+T1	Gene 18 22	rsfA
+T2	Protein 52 60	sigma(F)
+T3	Protein 65 73	sigma(G)
+N1	Gene_Identifier Annotation:T1 Referent:rsfA
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:sigG

@@ -1,0 +1,8 @@
+T1	Operon 48 51	sdh
+T2	Protein 81 89	sigma-43
+T3	Promoter 90 98	promoter
+T4	Site 127 144	guanosine residue
+T5	Gene 203 207	sdhC
+N1	Gene_Identifier Annotation:T1 Referent:sdh
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T5 Referent:sdhC

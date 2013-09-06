@@ -1,0 +1,14 @@
+T15	Action 66 76	recognized
+T16	Action 194 204	recognized
+E1	Action_Target:T16 Target:T10
+E2	Action_Target:T15 Target:T4
+R1	Promoter_of Gene:T3 Promoter:T4
+R2	Promoter_of Gene:T9 Promoter:T10
+R3	Master_of_Promoter Promoter:T4 Protein:T1
+R4	Master_of_Promoter Promoter:T10 Protein:T1
+R5	Master_of_Promoter Promoter:T10 Protein:T11
+R6	Master_of_Promoter Promoter:T4 Protein:T5
+R7	Interaction.Transcription Target:E1 Agent:T11
+R8	Interaction.Activation Target:T3 Agent:T1
+R9	Interaction.Activation Target:T9 Agent:T1
+R10	Interaction.Transcription Target:E2 Agent:T5

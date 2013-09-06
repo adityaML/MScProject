@@ -1,0 +1,10 @@
+T1	Protein 19 32	sigma factors
+T2	Protein 34 40	sigmaE
+T3	Protein 45 51	sigmaK
+T4	Protein 59 70	DNA-binding
+T5	Protein 80 87	SpoIIID
+N1	Gene_Identifier Annotation:T1 Referent:sigma factor
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:DNA-binding
+N5	Gene_Identifier Annotation:T5 Referent:spoIIID

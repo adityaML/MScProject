@@ -1,0 +1,14 @@
+T10	Action 49 56	induced
+E1	Action_Target:T10 Target:T1
+E2	Action_Target:T10 Target:T4
+E3	Transcription_by:T10 Agent:T5
+R1	Promoter_of Gene:T2 Promoter:T1
+R2	Promoter_of Gene:T3 Promoter:T4
+R3	Master_of_Promoter Promoter:T4 Protein:T9
+R4	Master_of_Promoter Promoter:T1 Protein:T9
+R5	Master_of_Promoter Promoter:T1 Protein:T5
+R6	Master_of_Promoter Promoter:T4 Protein:T5
+R7	Interaction.Transcription Target:T2 Agent:T5
+R8	Interaction.Transcription Target:T3 Agent:T5
+R9	Interaction.Binding Target:T2 Agent:T9
+R10	Interaction.Binding Target:T3 Agent:T9

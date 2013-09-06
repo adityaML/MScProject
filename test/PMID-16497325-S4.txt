@@ -1,0 +1,2 @@
+The sigma(G) factor newly activates 81 genes, including the gene for SpoVT, which turns on (in nine cases) or stimulates (in 11 cases) the expression of 20 genes that had been turned on by sigma(G) and represses the expression of 27 others.
+

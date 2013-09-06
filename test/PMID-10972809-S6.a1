@@ -1,0 +1,14 @@
+T1	Protein 16 20	ClpX
+T2	PolymeraseComplex 88 103	RNAP holoenzyme
+T3	PolymeraseComplex 118 129	sigmaH-RNAP
+T4	Protein 118 124	sigmaH
+T5	Protein 167 171	ClpX
+T6	PolymeraseComplex 199 210	sigmaA-RNAP
+T7	Protein 199 205	sigmaA
+N1	Gene_Identifier Annotation:T1 Referent:clpX
+N2	Gene_Identifier Annotation:T2 Referent:RNA polymerase complex
+N3	Gene_Identifier Annotation:T3 Referent:sigH
+N4	Gene_Identifier Annotation:T4 Referent:sigH
+N5	Gene_Identifier Annotation:T5 Referent:clpX
+N6	Gene_Identifier Annotation:T6 Referent:sigA
+N7	Gene_Identifier Annotation:T7 Referent:sigA

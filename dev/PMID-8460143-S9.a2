@@ -1,0 +1,3 @@
+T5	Action 43 56	transcription
+E1	Transcription_by:T5 Agent:T2
+R1	Interaction.Inhibition Target:E1 Agent:T1

@@ -1,0 +1,20 @@
+T1	Protein 89 93	FlgM
+T2	Protein 172 193	flagella sigma factor
+T3	Protein 194 202	sigma 28
+T4	Protein 204 211	SpoIIAB
+T5	Protein 232 265	sporulation-specific sigma factor
+T6	Protein 267 274	sigma F
+T7	Protein 279 286	sigma G
+T8	Protein 310 314	RbsW
+T9	Protein 346 374	stress response sigma factor
+T10	Protein 375 382	sigma B
+N1	Gene_Identifier Annotation:T1 Referent:flgM
+N2	Gene_Identifier Annotation:T2 Referent:sigD
+N3	Gene_Identifier Annotation:T3 Referent:sigD
+N4	Gene_Identifier Annotation:T4 Referent:spoIIAB
+N5	Gene_Identifier Annotation:T5 Referent:sporulation-specific sigma factor
+N6	Gene_Identifier Annotation:T6 Referent:sigF
+N7	Gene_Identifier Annotation:T7 Referent:sigG
+N8	Gene_Identifier Annotation:T8 Referent:rsbW
+N9	Gene_Identifier Annotation:T9 Referent:sigB
+N10	Gene_Identifier Annotation:T10 Referent:sigB

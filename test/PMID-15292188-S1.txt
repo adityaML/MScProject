@@ -1,0 +1,2 @@
+In sporulating cells of Bacillus subtilis, the serine peptidase SpoIVB is the essential component of a transmembrane signaling cascade between the two intracellular compartments (forespore and mother cell) that leads to activation of the sigmaK transcription factor in the mother cell chamber.
+

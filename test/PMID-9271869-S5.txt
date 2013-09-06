@@ -1,0 +1,2 @@
+Two promoters are involved in transcriptional initiation, the sigma A-dependent upstream promoter contributes to the basal level during growth, whereas the sigma B-dependent downstream promoter is induced after different stress conditions.
+

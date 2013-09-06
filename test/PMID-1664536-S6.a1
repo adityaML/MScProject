@@ -1,0 +1,12 @@
+T1	Protein 0 3	Sin
+T2	Protein 13 24	DNA-binding
+T3	Operon 60 66	spoIIA
+T4	Gene 68 74	spoIIE
+T5	Operon 79 85	spoIIG
+T6	Protein 109 114	Spo0A
+N1	Gene_Identifier Annotation:T1 Referent:sinR
+N2	Gene_Identifier Annotation:T2 Referent:DNA-binding
+N3	Gene_Identifier Annotation:T3 Referent:spoIIA
+N4	Gene_Identifier Annotation:T4 Referent:spoIIE
+N5	Gene_Identifier Annotation:T5 Referent:spoIIG
+N6	Gene_Identifier Annotation:T6 Referent:spo0A

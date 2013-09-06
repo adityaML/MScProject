@@ -1,0 +1,10 @@
+T1	Protein 16 23	sigma F
+T2	Protein 39 46	SpoIIAA
+T3	Protein 48 55	SpoIIAB
+T4	Protein 61 67	SpoIIE
+T5	Protein 71 79	membrane
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:spoIIAA
+N3	Gene_Identifier Annotation:T3 Referent:spoIIAB
+N4	Gene_Identifier Annotation:T4 Referent:spoIIE
+N5	Gene_Identifier Annotation:T5 Referent:membrane

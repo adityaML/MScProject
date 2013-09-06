@@ -1,0 +1,6 @@
+T1	Protein 32 39	sigma B
+T2	Gene 91 95	gspA
+T3	Protein 99 106	sigma B
+N1	Gene_Identifier Annotation:T1 Referent:sigB
+N2	Gene_Identifier Annotation:T2 Referent:gspA
+N3	Gene_Identifier Annotation:T3 Referent:sigB

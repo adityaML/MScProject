@@ -1,0 +1,5 @@
+T5	Action 234 247	transcription
+E1	Transcription_by:T5 Agent:T3
+E2	Transcription_by:T5 Agent:T4
+R1	Interaction.Regulation Target:E1 Agent:T2
+R2	Interaction.Regulation Target:E2 Agent:T2

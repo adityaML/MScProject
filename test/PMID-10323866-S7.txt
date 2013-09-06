@@ -1,0 +1,2 @@
+The first stage, which involves the phosphatase function of SpoIIE, depends on the cell division protein FtsZ and could correspond to the FtsZ-dependent assembly of SpoIIE into E-rings.
+

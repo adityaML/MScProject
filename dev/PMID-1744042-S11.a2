@@ -1,0 +1,6 @@
+T3	Action 5 25	timing of expression
+T4	Action 30 47	medium dependence
+T5	Action 69 74	those
+E1	Action_Target:T4 Target:T1
+E2	Action_Target:T3 Target:T1
+R1	Interaction.Transcription Target:T1 Agent:T2

@@ -1,0 +1,7 @@
+T6	Action 78 89	transcribed
+E1	Action_Target:T6 Target:T1
+E2	Transcription_by:T6 Agent:T4
+R1	Member_of_Regulon Member:T1 Regulon:T3
+R2	Master_of_Regulon Master:T2 Regulon:T3
+R3	Interaction.Transcription Target:E1 Agent:T4
+R4	Interaction.Regulation Target:T1 Agent:T2

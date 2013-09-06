@@ -1,0 +1,7 @@
+T1	Protein 80 87	sigma F
+T2	Protein 88 94	factor
+T3	Protein 148 154	SpoIIE
+T4	Protein 155 173	serine phosphatase
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T3 Referent:spoIIE
+N3	Gene_Identifier Annotation:T4 Referent:serine phosphatase

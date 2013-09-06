@@ -1,0 +1,18 @@
+T1	Protein 0 6	sigmaF
+T2	ProteinComplex 26 44	regulatory cascade
+T3	Protein 58 75	anti-sigma factor
+T4	Protein 77 84	SpoIIAB
+T5	Protein 89 111	anti-anti-sigma factor
+T6	Protein 113 120	SpoIIAA
+T7	Protein 128 154	membrane-bound phosphatase
+T8	Protein 156 162	SpoIIE
+T9	Protein 193 207;216 223	phosphorylated SpoIIAA
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:regulatory cascade
+N3	Gene_Identifier Annotation:T3 Referent:anti-sigma factor
+N4	Gene_Identifier Annotation:T4 Referent:spoIIAB
+N5	Gene_Identifier Annotation:T5 Referent:anti-anti-sigma factor
+N6	Gene_Identifier Annotation:T6 Referent:spoIIAA
+N7	Gene_Identifier Annotation:T7 Referent:membrane-bound phosphatase
+N8	Gene_Identifier Annotation:T8 Referent:spoIIE
+N9	Gene_Identifier Annotation:T9 Referent:spoIIAA

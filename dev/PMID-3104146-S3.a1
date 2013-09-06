@@ -1,0 +1,7 @@
+T1	Promoter 36 44	promoter
+T2	Gene 69 73	rrnB
+T3	PolymeraseComplex 151 161	E sigma 29
+T4	Protein 153 161	sigma 29
+N1	Gene_Identifier Annotation:T2 Referent:rrnB
+N2	Gene_Identifier Annotation:T3 Referent:sigE
+N3	Gene_Identifier Annotation:T4 Referent:sigE

@@ -1,0 +1,2 @@
+The SpoIIE phosphatase indirectly activates sigmaF by dephosphorylating a protein (SpoIIAA-P) in the pathway that controls the activity of the transcription factor.
+

@@ -1,0 +1,7 @@
+T5	Action 12 19	induced
+T6	Action 37 47	expression
+E1	Action_Target:T6 Target:T1
+E2	Transcription_by:T6 Agent:T3
+R1	Master_of_Regulon Master:T3 Regulon:T4
+R2	Interaction.Transcription Target:E1 Agent:T3
+R3	Interaction.Requirement Target:E1 Agent:T3

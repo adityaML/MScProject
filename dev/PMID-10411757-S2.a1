@@ -1,0 +1,10 @@
+T1	Gene 9 14	spo0H
+T2	ProteinComplex 57 74	regulatory device
+T3	ProteinComplex 117 121	Spo0
+T4	ProteinComplex 122 134	phosphorelay
+T5	Protein 268 274	sigmaH
+N1	Gene_Identifier Annotation:T1 Referent:sigH
+N2	Gene_Identifier Annotation:T2 Referent:regulatory device
+N3	Gene_Identifier Annotation:T3 Referent:spo0
+N4	Gene_Identifier Annotation:T4 Referent:spo0
+N5	Gene_Identifier Annotation:T5 Referent:sigH

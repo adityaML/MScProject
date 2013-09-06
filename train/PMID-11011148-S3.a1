@@ -1,0 +1,4 @@
+T1	Gene 17 21	ydhD
+T2	Protein 39 43	SigE
+N1	Gene_Identifier Annotation:T1 Referent:ydhD
+N2	Gene_Identifier Annotation:T2 Referent:sigE

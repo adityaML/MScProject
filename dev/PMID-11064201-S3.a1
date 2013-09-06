@@ -1,0 +1,10 @@
+T1	Operon 34 40	spoIIG
+T2	Protein 83 91	sigma(A)
+T3	Protein 100 120	phosphorylated Spo0A
+T4	Protein 130 137	Spo0A~P
+T5	Protein 147 167	transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:spoIIG
+N2	Gene_Identifier Annotation:T2 Referent:sigA
+N3	Gene_Identifier Annotation:T3 Referent:spo0A
+N4	Gene_Identifier Annotation:T4 Referent:spo0A
+N5	Gene_Identifier Annotation:T5 Referent:transcription factor

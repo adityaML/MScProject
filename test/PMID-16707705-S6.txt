@@ -1,0 +1,2 @@
+The gerK promoter showed sequence similarities to sigma(G)-dependent promoters, and deletion of elements of this putative promoter abolished gerK expression in sporulation.
+

@@ -1,0 +1,4 @@
+R1	Interaction.Activation Target:T9 Agent:T8
+R2	Interaction.Regulation Target:T1 Agent:T4
+R3	Interaction.Regulation Target:T1 Agent:T6
+R4	Interaction.Regulation Target:T1 Agent:T8

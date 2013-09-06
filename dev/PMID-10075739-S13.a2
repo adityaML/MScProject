@@ -1,0 +1,12 @@
+T5	Action 29 41	rising level
+T6	Action 95 108	transcription
+T7	Action 145 158	transcription
+E1	Action_Target:T7 Target:T2
+E2	Action_Target:T5 Target:T1
+E3	Action_Target:T6 Target:T2
+E4	Transcription_from:T6 Site:T3
+E5	Transcription_from:T7 Site:T4
+R1	Site_of Site:T4 Entity:T2
+R2	Site_of Site:T3 Entity:T2
+R3	Interaction.Activation Target:E3 Agent:E2
+R4	Interaction.Inhibition Target:E1 Agent:E2

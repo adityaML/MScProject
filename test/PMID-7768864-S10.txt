@@ -1,0 +1,2 @@
+Analysis of RNA isolated from a sigma B deletion mutant revealed that the transcription of gspA is sigma B dependent.
+

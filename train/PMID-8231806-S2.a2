@@ -1,0 +1,11 @@
+T7	Action 8 18	expression
+E1	Action_Target:T7 Target:T2
+R1	Master_of_Promoter Promoter:T2 Protein:T5
+R2	Master_of_Promoter Promoter:T2 Protein:T4
+R3	Master_of_Promoter Promoter:T2 Protein:T3
+R4	Master_of_Promoter Promoter:T2 Protein:T6
+R5	Promoter_of Gene:T1 Promoter:T2
+R6	Interaction.Regulation Target:E1 Agent:T3
+R7	Interaction.Regulation Target:E1 Agent:T4
+R8	Interaction.Regulation Target:E1 Agent:T5
+R9	Interaction.Regulation Target:E1 Agent:T6

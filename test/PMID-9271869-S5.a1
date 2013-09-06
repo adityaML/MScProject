@@ -1,0 +1,7 @@
+T1	Promoter 4 13	promoters
+T2	Protein 62 69	sigma A
+T3	Promoter 80 97	upstream promoter
+T4	Protein 156 163	sigma B
+T5	Promoter 174 193	downstream promoter
+N1	Gene_Identifier Annotation:T2 Referent:sigA
+N2	Gene_Identifier Annotation:T4 Referent:sigB

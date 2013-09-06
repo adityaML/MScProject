@@ -1,0 +1,11 @@
+T8	Action 52 65	transcription
+E1	Action_Target:T8 Target:T5
+E2	Action_Target:T8 Target:T6
+E3	Action_Target:T8 Target:T7
+E4	Transcription_by:T8 Agent:T2
+R1	Interaction.Transcription Target:E1 Agent:T2
+R2	Interaction.Transcription Target:E2 Agent:T2
+R3	Interaction.Transcription Target:E3 Agent:T2
+R4	Interaction.Inhibition Target:R1 Agent:T1
+R5	Interaction.Inhibition Target:R2 Agent:T1
+R6	Interaction.Inhibition Target:R3 Agent:T1

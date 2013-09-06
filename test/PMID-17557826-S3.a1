@@ -1,0 +1,10 @@
+T1	Protein 4 30	signaling serine proteases
+T2	Protein 32 38	SpoIVB
+T3	Protein 43 47	CtpB
+T4	Protein 57 69	pro-sigma(K)
+T5	Protein 116 123	SpoIVFA
+N1	Gene_Identifier Annotation:T1 Referent:signaling serine protease
+N2	Gene_Identifier Annotation:T2 Referent:spoIVB
+N3	Gene_Identifier Annotation:T3 Referent:ctpB
+N4	Gene_Identifier Annotation:T4 Referent:sigK
+N5	Gene_Identifier Annotation:T5 Referent:spoIVFA

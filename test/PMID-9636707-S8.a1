@@ -1,0 +1,10 @@
+T1	Protein 0 7	sigma X
+T2	Protein 46 50	CsbB
+T3	Protein 63 98	membrane-bound glucosyl transferase
+T4	Protein 135 142	sigma B
+T5	Protein 143 171	stress response sigma factor
+N1	Gene_Identifier Annotation:T1 Referent:sigX
+N2	Gene_Identifier Annotation:T2 Referent:csbB
+N3	Gene_Identifier Annotation:T3 Referent:membrane-bound glucosyl transferase
+N4	Gene_Identifier Annotation:T4 Referent:sigB
+N5	Gene_Identifier Annotation:T5 Referent:sigB

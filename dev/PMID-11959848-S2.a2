@@ -1,0 +1,5 @@
+T7	Action 24 34	processing
+E1	Action_Target:T7 Target:T1
+R1	Interaction.Regulation Target:E1 Agent:T2
+R2	Interaction.Inhibition Target:T2 Agent:T5
+R3	Interaction.Inhibition Target:T2 Agent:T6

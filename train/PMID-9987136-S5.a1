@@ -1,0 +1,35 @@
+T1	Protein 4 11	sigma W
+T2	Regulon 12 19	regulon
+T3	Protein 31 49	penicillin binding
+T4	Protein 59 64	PBP4*
+T5	Protein 87 106	amino acid racemase
+T6	Protein 108 112	RacX
+T7	ProteinFamily 129 153	signal peptide peptidase
+T8	Protein 155 159	YteI
+T9	ProteinFamily 162 171	flotillin
+T10	Protein 173 177	YuaG
+T11	ProteinFamily 180 196	ABC transporters
+T12	ProteinComplex 198 204	YknXYZ
+T13	ProteinFamily 207 231	non-haem bromoperoxidase
+T14	Protein 233 237	YdjP
+T15	ProteinFamily 240 257	epoxide hydrolase
+T16	Protein 259 263	YfhM
+T17	Protein 275 289	small peptides
+T18	ProteinFamily 322 356	bacteriocin precursor polypeptides
+N1	Gene_Identifier Annotation:T1 Referent:sigW
+N2	Gene_Identifier Annotation:T3 Referent:penicillin binding
+N3	Gene_Identifier Annotation:T4 Referent:pbpE
+N4	Gene_Identifier Annotation:T5 Referent:amino acid racemase
+N5	Gene_Identifier Annotation:T6 Referent:racX
+N6	Gene_Identifier Annotation:T7 Referent:signal peptide peptidase
+N7	Gene_Identifier Annotation:T8 Referent:sppA
+N8	Gene_Identifier Annotation:T9 Referent:flotillin
+N9	Gene_Identifier Annotation:T10 Referent:floT
+N10	Gene_Identifier Annotation:T11 Referent:ABC transporter
+N11	Gene_Identifier Annotation:T12 Referent:yknXYZ
+N12	Gene_Identifier Annotation:T13 Referent:non-haem bromoperoxidase
+N13	Gene_Identifier Annotation:T14 Referent:ydjP
+N14	Gene_Identifier Annotation:T15 Referent:epoxide hydrolase
+N15	Gene_Identifier Annotation:T16 Referent:yfhM
+N16	Gene_Identifier Annotation:T17 Referent:small peptide
+N17	Gene_Identifier Annotation:T18 Referent:bacteriocin precursor polypeptides

@@ -1,0 +1,9 @@
+T6	Action 24 33	synthesis
+T7	Action 69 82	transcription
+E1	Action_Target:T6 Target:T1
+E2	Transcription_from:T7 Site:T3
+R1	Interaction.Regulation Target:E2 Agent:E1
+R2	Interaction.Transcription Target:E1 Agent:T4
+R3	Promoter_of Gene:T2 Promoter:T3
+M1	Negation R1
+M2	Negation R2

@@ -1,0 +1,4 @@
+T8	Action 173 187	phosphorylates
+E1	Action_Target:T8 Target:T7
+R1	Interaction.Regulation Target:T1 Agent:T4
+R2	Interaction.Regulation Target:T7 Agent:T4

@@ -1,0 +1,11 @@
+T1	Gene 21 25	sigK
+T2	PolymeraseComplex 47 82	RNA polymerase sigma-factor sigma K
+T3	Protein 75 82	sigma K
+T4	Gene 149 156	spoIVCB
+T5	Gene 161 168	spoIIIC
+T6	Site 200 227	site-specific recombination
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:sigK
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:spoIVCB
+N5	Gene_Identifier Annotation:T5 Referent:spoIIIC

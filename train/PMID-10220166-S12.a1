@@ -1,0 +1,8 @@
+T1	Protein 10 16	sigmaB
+T2	Gene 34 38	ydaE
+T3	Gene 40 44	ydaG
+T4	Gene 49 53	yfkM
+N1	Gene_Identifier Annotation:T1 Referent:sigB
+N2	Gene_Identifier Annotation:T2 Referent:ydaE
+N3	Gene_Identifier Annotation:T3 Referent:ydaG
+N4	Gene_Identifier Annotation:T4 Referent:yfkM

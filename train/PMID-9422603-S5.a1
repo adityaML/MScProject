@@ -1,0 +1,10 @@
+T1	Site 0 13	DNA sequences
+T2	Promoter 26 28	P1
+T3	Protein 55 59	SigK
+T4	Promoter 70 79	promoters
+T5	Promoter 87 89	P2
+T6	Promoter 94 96	P3
+T7	Protein 123 127	SigE
+T8	Promoter 138 147	promoters
+N1	Gene_Identifier Annotation:T3 Referent:sigK
+N2	Gene_Identifier Annotation:T7 Referent:sigE

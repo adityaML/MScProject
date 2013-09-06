@@ -1,0 +1,5 @@
+T1	Site 45 71	transcription start points
+T2	Operon 79 85	spoIIA
+T3	Operon 90 95	spoVA
+N1	Gene_Identifier Annotation:T2 Referent:spoIIA
+N2	Gene_Identifier Annotation:T3 Referent:spoVA

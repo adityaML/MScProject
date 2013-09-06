@@ -1,0 +1,5 @@
+T1	Promoter 6 15	promoters
+T2	Operon 44 48	sigA
+T3	Operon 50 54	rpoD
+N1	Gene_Identifier Annotation:T2 Referent:sigA
+N2	Gene_Identifier Annotation:T3 Referent:sigA

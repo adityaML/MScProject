@@ -1,0 +1,13 @@
+T1	Protein 0 7	Sigma-F
+T2	Protein 13 60	first sporulation-specific transcription factor
+T3	Protein 102 119	anti-sigma factor
+T4	Protein 120 127	SpoIIAB
+T5	Protein 153 167	protein kinase
+T6	Protein 192 214	anti-anti-sigma factor
+T7	Protein 215 222	SpoIIAA
+N1	Gene_Identifier Annotation:T1 Referent:sigF
+N2	Gene_Identifier Annotation:T2 Referent:first sporulation-specific transcription factor
+N3	Gene_Identifier Annotation:T4 Referent:spoIIAB
+N4	Gene_Identifier Annotation:T5 Referent:protein kinase
+N5	Gene_Identifier Annotation:T6 Referent:anti-anti-sigma factor
+N6	Gene_Identifier Annotation:T7 Referent:spoIIAA

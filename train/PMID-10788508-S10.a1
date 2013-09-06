@@ -1,0 +1,12 @@
+T1	Protein 33 40	SpoIIID
+T2	Site 63 68	sites
+T3	Gene 76 80	cotC
+T4	Promoter 81 89	promoter
+T5	Site 118 122	site
+T6	Gene 130 134	cotX
+T7	Promoter 135 143	promoter
+T8	Gene 179 183	cotB
+N1	Gene_Identifier Annotation:T1 Referent:spoIIID
+N2	Gene_Identifier Annotation:T3 Referent:cotC
+N3	Gene_Identifier Annotation:T6 Referent:cotX
+N4	Gene_Identifier Annotation:T8 Referent:cotB

@@ -1,0 +1,2 @@
+The sigma B structural gene, sigB, lies in an operon with three other genes whose products have been shown to control sigma B activity in response to environmental stress.
+

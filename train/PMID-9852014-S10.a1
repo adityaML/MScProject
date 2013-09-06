@@ -1,0 +1,10 @@
+T1	Protein 24 28	yvyD
+T2	Protein 70 76	sigmaB
+T3	Protein 81 87	sigmaH
+T4	Regulon 88 96	regulons
+T5	Protein 144 150	sigmaL
+T6	Regulon 151 158	regulon
+N1	Gene_Identifier Annotation:T1 Referent:yvyD
+N2	Gene_Identifier Annotation:T2 Referent:sigB
+N3	Gene_Identifier Annotation:T3 Referent:sigH
+N4	Gene_Identifier Annotation:T5 Referent:sigL

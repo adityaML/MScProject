@@ -1,0 +1,2 @@
+The phosphatase Spo0E specifically inactivates the response regulator Spo0A~P by dephosphorylation.
+

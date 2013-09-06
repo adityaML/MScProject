@@ -1,0 +1,6 @@
+T1	Gene 59 63	yfhS
+T2	PolymeraseComplex 82 91	E sigma E
+T3	Protein 84 91	sigma E
+N1	Gene_Identifier Annotation:T1 Referent:yfhS
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:sigE

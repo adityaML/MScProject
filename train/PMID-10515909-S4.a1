@@ -1,0 +1,6 @@
+T1	Protein 18 26	sigma(K)
+T2	Gene 37 41	cwlH
+T3	Gene 59 63	gerE
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:cwlH
+N3	Gene_Identifier Annotation:T3 Referent:gerE

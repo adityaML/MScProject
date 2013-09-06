@@ -1,0 +1,10 @@
+T1	Protein 31 37	SpoIVB
+T2	Protein 41 57	serine peptidase
+T3	Protein 207 211	BofA
+T4	Protein 213 220	SpoIVFA
+T5	Protein 226 233	SpoIVFB
+N1	Gene_Identifier Annotation:T1 Referent:spoIVB
+N2	Gene_Identifier Annotation:T2 Referent:serine peptidase
+N3	Gene_Identifier Annotation:T3 Referent:bofA
+N4	Gene_Identifier Annotation:T4 Referent:spoIVFA
+N5	Gene_Identifier Annotation:T5 Referent:spoIVFB

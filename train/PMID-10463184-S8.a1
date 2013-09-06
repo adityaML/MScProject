@@ -1,0 +1,10 @@
+T1	Protein 27 31	YfhP
+T2	Gene 89 93	yfhQ
+T3	Gene 95 99	yfhR
+T4	Gene 101 105	sspE
+T5	Gene 110 114	yfhP
+N1	Gene_Identifier Annotation:T1 Referent:yfhP
+N2	Gene_Identifier Annotation:T2 Referent:mutY
+N3	Gene_Identifier Annotation:T3 Referent:fabL
+N4	Gene_Identifier Annotation:T4 Referent:sspE
+N5	Gene_Identifier Annotation:T5 Referent:yfhP

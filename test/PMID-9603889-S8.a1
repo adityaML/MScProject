@@ -1,0 +1,10 @@
+T1	Protein 31 37	sigmaK
+T2	Protein 42 46	GerE
+T3	Gene 64 68	cotS
+T4	Protein 89 93	CotE
+T5	Protein 127 131	CotS
+N1	Gene_Identifier Annotation:T1 Referent:sigK
+N2	Gene_Identifier Annotation:T2 Referent:gerE
+N3	Gene_Identifier Annotation:T3 Referent:cotS
+N4	Gene_Identifier Annotation:T4 Referent:cotE
+N5	Gene_Identifier Annotation:T5 Referent:cotS

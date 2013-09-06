@@ -1,0 +1,5 @@
+T3	Action 8 16	activity
+T4	Action 48 70	proteolytic processing
+E1	Action_Target:T4 Target:T2
+E2	Action_Target:T3 Target:T1
+R1	Interaction.Regulation Target:E1 Agent:E2

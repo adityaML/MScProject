@@ -1,0 +1,9 @@
+T6	Action 22 28	levels
+T7	Action 96 106	expression
+T8	Action 124 135	transcribed
+E1	Action_Target:T8 Target:T3
+E2	Action_Target:T7 Target:T3
+E3	Action_Target:T6 Target:T2
+E4	Action_Target:T6 Target:T1
+E5	Transcription_by:T8 Agent:T4
+R1	Interaction.Transcription Target:E1 Agent:T4

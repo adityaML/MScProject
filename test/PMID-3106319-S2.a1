@@ -1,0 +1,6 @@
+T1	Protein 4 16	sigma factor
+T2	Protein 76 83	sigma E
+T3	Protein 94 102	sigma 29
+N1	Gene_Identifier Annotation:T1 Referent:sporulation sigma factor
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:sigE

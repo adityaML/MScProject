@@ -1,0 +1,7 @@
+T1	Gene 0 5	spoVD
+T2	Promoter 44 52	promoter
+T3	PolymeraseComplex 71 101	sigma E form of RNA polymerase
+T4	Protein 71 78	sigma E
+N1	Gene_Identifier Annotation:T1 Referent:spoVD
+N2	Gene_Identifier Annotation:T3 Referent:sigE
+N3	Gene_Identifier Annotation:T4 Referent:sigE

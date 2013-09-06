@@ -1,0 +1,11 @@
+T1	Gene 57 67	subtilisin
+T2	Gene 74 78	aprE
+T3	PolymeraseComplex 104 129	RNA polymerase holoenzyme
+T4	PolymeraseComplex 149 153;158 165	core sigma A
+T5	Protein 158 165	sigma A
+T6	Protein 166 172	factor
+N1	Gene_Identifier Annotation:T1 Referent:subtilisin
+N2	Gene_Identifier Annotation:T2 Referent:aprE
+N3	Gene_Identifier Annotation:T3 Referent:sigA
+N4	Gene_Identifier Annotation:T4 Referent:sigA
+N5	Gene_Identifier Annotation:T5 Referent:sigA

@@ -1,0 +1,3 @@
+T3	Action 0 12	Localization
+E1	Action_Target:T3 Target:T1
+R1	Interaction.Regulation Target:E1 Agent:T2

@@ -1,0 +1,13 @@
+T1	Promoter 4 12	promoter
+T2	Gene 14 17	amy
+T3	Promoter 17 18	P
+T4	Gene 45 58	alpha-amylase
+T5	PolymeraseComplex 88 97	E sigma A
+T6	Protein 90 97	sigma A
+T7	Promoter 145 153	promoter
+T8	Site 166 169;178 186	-35 hexamers
+T9	Site 174 186	-10 hexamers
+N1	Gene_Identifier Annotation:T2 Referent:amyE
+N2	Gene_Identifier Annotation:T4 Referent:alpha-amylase
+N3	Gene_Identifier Annotation:T5 Referent:sigA
+N4	Gene_Identifier Annotation:T6 Referent:sigA

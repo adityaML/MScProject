@@ -1,0 +1,2 @@
+The product of regulatory gene spo0H is an RNA polymerase sigma factor called sigma H, which directs transcription of a sporulation gene known as spoVG.
+

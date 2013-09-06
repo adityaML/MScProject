@@ -1,0 +1,14 @@
+T5	Action 11 28	low concentration
+T6	Action 44 57	transcription
+T7	Action 69 89	higher concentration
+T8	Action 120 133	transcription
+T9	Action 164 177	transcription
+E1	Action_Target:T5 Target:T1
+E2	Action_Target:T8 Target:T3
+E3	Action_Target:T9 Target:T4
+E4	Action_Target:T6 Target:T2
+E5	Action_Target:T7 Target:T1
+R1	Interaction.Inhibition Target:E4 Agent:E1
+R2	Interaction.Inhibition Target:E2 Agent:E5
+R3	Interaction.Inhibition Target:E3 Agent:E5
+M1	Negation R3

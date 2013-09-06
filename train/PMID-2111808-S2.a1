@@ -1,0 +1,7 @@
+T1	Protein 9 15	factor
+T2	Protein 17 24	sigma D
+T3	Protein 26 34	sigma 28
+T4	Regulon 125 132	regulon
+N1	Gene_Identifier Annotation:T1 Referent:transcription factor
+N2	Gene_Identifier Annotation:T2 Referent:sigD
+N3	Gene_Identifier Annotation:T3 Referent:sigD

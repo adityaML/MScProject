@@ -1,0 +1,4 @@
+T5	Action 5 16	specificity
+T6	Action 134 140	action
+E1	Action_Target:T6 Target:T3
+R1	Interaction.Activation Target:T1 Agent:E1

@@ -1,0 +1,6 @@
+T1	Protein 14 20	SpoIIR
+T2	Protein 164 190	integral membrane protease
+T3	Protein 191 198	SpoIIGA
+N1	Gene_Identifier Annotation:T1 Referent:spoIIR
+N2	Gene_Identifier Annotation:T2 Referent:integral membrane protease
+N3	Gene_Identifier Annotation:T3 Referent:spoIIGA

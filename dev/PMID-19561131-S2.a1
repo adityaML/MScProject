@@ -1,0 +1,10 @@
+T1	Protein 22 26	KinA
+T2	Protein 38 44	kinase
+T3	ProteinComplex 78 90	phosphorelay
+T4	Protein 154 174	phosphorylated Spo0A
+T5	Protein 175 195	transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:kinA
+N2	Gene_Identifier Annotation:T2 Referent:kinase
+N3	Gene_Identifier Annotation:T3 Referent:spo0
+N4	Gene_Identifier Annotation:T4 Referent:spo0A
+N5	Gene_Identifier Annotation:T5 Referent:transcription factor

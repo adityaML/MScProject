@@ -1,0 +1,4 @@
+T1	Operon 34 39	spoVA
+T2	Gene 97 104	spoIIIC
+N1	Gene_Identifier Annotation:T1 Referent:spoVA
+N2	Gene_Identifier Annotation:T2 Referent:spoIIIC

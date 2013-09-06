@@ -1,0 +1,6 @@
+T7	Action 48 58	expression
+R1	Interaction.Activation Target:T2 Agent:T1
+R2	Interaction.Activation Target:T3 Agent:T1
+R3	Interaction.Activation Target:T4 Agent:T1
+R4	Interaction.Activation Target:T5 Agent:T1
+R5	Interaction.Inhibition Target:T6 Agent:T1

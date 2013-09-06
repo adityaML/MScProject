@@ -1,0 +1,7 @@
+T6	Action 16 26	expression
+T7	Action 53 66	transcription
+E1	Action_Target:T6 Target:T1
+E2	Action_Target:T7 Target:T1
+E3	Transcription_by:T7 Agent:T2
+R1	Interaction.Transcription Target:E2 Agent:T2
+R2	Interaction.Regulation Target:E2 Agent:T4

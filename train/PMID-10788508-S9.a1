@@ -1,0 +1,8 @@
+T1	Protein 0 7	SpoIIID
+T2	Gene 39 43	cotC
+T3	Gene 115 119	cotX
+T4	Gene 159 163	cotB
+N1	Gene_Identifier Annotation:T1 Referent:spoIIID
+N2	Gene_Identifier Annotation:T2 Referent:cotC
+N3	Gene_Identifier Annotation:T3 Referent:cotX
+N4	Gene_Identifier Annotation:T4 Referent:cotB

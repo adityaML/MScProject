@@ -1,0 +1,12 @@
+T6	Action 0 13	Transcription
+T7	Action 105 115	expression
+E1	Action_Target:T6 Target:T1
+E2	Action_Target:T7 Target:T4
+E3	Transcription_from:T6 Site:T3
+E4	Transcription_by:T6 Agent:T2
+E5	Transcription_by:T7 Agent:T5
+R1	Promoter_of Gene:T1 Promoter:T3
+R2	Master_of_Promoter Promoter:T3 Protein:T2
+R3	Interaction.Requirement Target:T5 Agent:E2
+R4	Interaction.Transcription Target:E1 Agent:T2
+R5	Interaction.Requirement Target:E2 Agent:T5

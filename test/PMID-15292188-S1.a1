@@ -1,0 +1,8 @@
+T1	Protein 47 63	serine peptidase
+T2	Protein 64 70	SpoIVB
+T3	Protein 238 244	sigmaK
+T4	Protein 245 265	transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:serine peptidase
+N2	Gene_Identifier Annotation:T2 Referent:spoIVB
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:transcription factor

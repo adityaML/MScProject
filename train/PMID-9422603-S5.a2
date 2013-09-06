@@ -1,0 +1,4 @@
+R1	Site_of Site:T1 Entity:T2
+R2	Master_of_Promoter Promoter:T2 Protein:T3
+R3	Master_of_Promoter Promoter:T5 Protein:T7
+R4	Master_of_Promoter Promoter:T6 Protein:T7

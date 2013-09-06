@@ -1,0 +1,8 @@
+T1	GeneFamily 5 8	cot
+T2	Gene 24 28	gerE
+T3	PolymeraseComplex 54 75	sigmaK RNA polymerase
+T4	Protein 54 60	sigmaK
+N1	Gene_Identifier Annotation:T1 Referent:cot
+N2	Gene_Identifier Annotation:T2 Referent:gerE
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:sigK

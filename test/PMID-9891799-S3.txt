@@ -1,0 +1,2 @@
+The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; FlgM, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor sigma 28; SpoIIAB, which inhibits the sporulation-specific sigma factor, sigma F and sigma G, of Bacillus subtilis; RbsW of B. subtilis, which inhibits stress response sigma factor sigma B; and DnaK, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor sigma 32.
+

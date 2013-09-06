@@ -1,0 +1,6 @@
+T6	Action 36 49	transcription
+E1	Transcription_from:T6 Site:T4
+R1	Promoter_of Gene:T3 Promoter:T4
+R2	Interaction.Activation Target:E1 Agent:T1
+R3	Interaction.Activation Target:E1 Agent:T2
+R4	Interaction.Activation Target:E1 Agent:T5

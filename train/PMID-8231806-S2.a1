@@ -1,0 +1,11 @@
+T1	Operon 26 32	spoIIG
+T2	Promoter 33 41	promoter
+T3	Gene 114 118	kinA
+T4	Gene 120 125	spo0F
+T5	Gene 127 132	spo0B
+T6	Gene 137 142	spo0A
+N1	Gene_Identifier Annotation:T1 Referent:spoIIG
+N2	Gene_Identifier Annotation:T3 Referent:kinA
+N3	Gene_Identifier Annotation:T4 Referent:spo0F
+N4	Gene_Identifier Annotation:T5 Referent:spo0B
+N5	Gene_Identifier Annotation:T6 Referent:spo0A

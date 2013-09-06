@@ -1,0 +1,8 @@
+T10	Action 85 96	transcribed
+T11	Action 152 162	expression
+E1	Action_Target:T11 Target:T1
+E2	Action_Target:T10 Target:T1
+E3	Transcription_by:T10 Agent:T3
+R1	Bind_to DNA:T8 Protein:T5
+R2	Interaction.Transcription Target:T3 Agent:E2
+R3	Interaction.Requirement Target:R2 Agent:T5

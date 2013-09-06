@@ -1,0 +1,6 @@
+T1	Protein 53 59	SpoIIQ
+T2	Protein 90 96	SpoIVB
+T3	Protein 117 123	sigmaG
+N1	Gene_Identifier Annotation:T1 Referent:spoIIQ
+N2	Gene_Identifier Annotation:T2 Referent:spoIVB
+N3	Gene_Identifier Annotation:T3 Referent:sigG

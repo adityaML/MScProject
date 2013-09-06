@@ -1,0 +1,6 @@
+T1	Protein 0 7	SpoIIAA
+T2	Protein 71 77	sigmaF
+T3	Protein 83 130	first sporulation-specific transcription factor
+N1	Gene_Identifier Annotation:T1 Referent:spoIIAA
+N2	Gene_Identifier Annotation:T2 Referent:sigF
+N3	Gene_Identifier Annotation:T3 Referent:first sporulation-specific transcription factor

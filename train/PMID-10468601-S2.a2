@@ -1,0 +1,4 @@
+T8	Action 83 93	expression
+E1	Action_Target:T8 Target:T2
+R1	Promoter_of Gene:T5 Promoter:T6
+R2	Interaction.Regulation Target:E1 Agent:T1

@@ -1,0 +1,6 @@
+T1	Gene 0 4	ykuD
+T2	PolymeraseComplex 24 43	SigK RNA polymerase
+T3	Protein 24 28	SigK
+N1	Gene_Identifier Annotation:T1 Referent:ldt
+N2	Gene_Identifier Annotation:T2 Referent:sigK
+N3	Gene_Identifier Annotation:T3 Referent:sigK

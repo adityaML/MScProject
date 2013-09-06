@@ -1,0 +1,12 @@
+T7	Action 29 42	transcription
+T8	Action 69 82	transcription
+T9	Action 120 130	production
+T10	Action 181 189	activity
+E1	Action_Target:T8 Target:T3
+E2	Action_Target:T7 Target:T2
+E3	Action_Target:T9 Target:T4
+E4	Action_Target:T10 Target:T6
+R1	Interaction.Inhibition Target:E4 Agent:E3
+R2	Interaction.Activation Target:E3 Agent:T1
+R3	Interaction.Activation Target:E1 Agent:T1
+R4	Interaction.Inhibition Target:E2 Agent:T1

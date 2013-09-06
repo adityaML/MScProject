@@ -1,0 +1,6 @@
+T1	Protein 0 4	YhdN
+T2	ProteinFamily 32 53	potassium ion channel
+T3	Protein 67 71	YocK
+N1	Gene_Identifier Annotation:T1 Referent:yhdN
+N2	Gene_Identifier Annotation:T2 Referent:potassium ion channel
+N3	Gene_Identifier Annotation:T3 Referent:yocK

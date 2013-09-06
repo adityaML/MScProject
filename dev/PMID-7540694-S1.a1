@@ -1,0 +1,8 @@
+T1	Gene 19 23	rocD
+T2	Gene 25 29	rocE
+T3	Gene 34 38	rocF
+T4	Gene 59 63	rocR
+N1	Gene_Identifier Annotation:T1 Referent:rocD
+N2	Gene_Identifier Annotation:T2 Referent:rocE
+N3	Gene_Identifier Annotation:T3 Referent:rocF
+N4	Gene_Identifier Annotation:T4 Referent:rocR

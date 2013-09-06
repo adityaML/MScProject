@@ -1,0 +1,2 @@
+We here demonstrate that SpoIIQ is subject to sigmaG-independent, but engulfment-dependent, proteolysis that depends on SpoIVB.
+

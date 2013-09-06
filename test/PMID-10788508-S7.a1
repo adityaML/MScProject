@@ -1,0 +1,8 @@
+T1	GeneFamily 76 79	cot
+T2	Protein 132 136	GerE
+T3	Protein 149 169	transcription factor
+T4	Protein 171 178	SpoIIID
+N1	Gene_Identifier Annotation:T1 Referent:cot
+N2	Gene_Identifier Annotation:T2 Referent:gerE
+N3	Gene_Identifier Annotation:T3 Referent:transcription factor
+N4	Gene_Identifier Annotation:T4 Referent:spoIIID

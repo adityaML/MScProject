@@ -1,0 +1,28 @@
+T1	Protein 47 54	kinases
+T2	Protein 56 60	KinA
+T3	Protein 62 66	KinC
+T4	Protein 68 72	KinD
+T5	Protein 74 78	ykvD
+T6	Protein 84 88	KinE
+T7	Protein 90 94	ykrQ
+T8	Gene 103 107	abrB
+T9	Protein 141 148	Spo0A~P
+T10	Protein 170 174	KinC
+T11	Protein 179 183	KinD
+T12	Protein 205 212	Spo0A~P
+T13	Protein 281 285	KinA
+T14	Protein 290 294	KinB
+N1	Gene_Identifier Annotation:T1 Referent:kinase
+N2	Gene_Identifier Annotation:T2 Referent:kinA
+N3	Gene_Identifier Annotation:T3 Referent:kinC
+N4	Gene_Identifier Annotation:T4 Referent:kinD
+N5	Gene_Identifier Annotation:T5 Referent:kinD
+N6	Gene_Identifier Annotation:T6 Referent:kinE
+N7	Gene_Identifier Annotation:T7 Referent:kinE
+N8	Gene_Identifier Annotation:T8 Referent:abrB
+N9	Gene_Identifier Annotation:T9 Referent:spo0A
+N10	Gene_Identifier Annotation:T10 Referent:kinC
+N11	Gene_Identifier Annotation:T11 Referent:kinD
+N12	Gene_Identifier Annotation:T12 Referent:spo0A
+N13	Gene_Identifier Annotation:T13 Referent:kinA
+N14	Gene_Identifier Annotation:T14 Referent:kinB

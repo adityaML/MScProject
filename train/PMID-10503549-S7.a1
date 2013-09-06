@@ -1,0 +1,4 @@
+T1	Protein 37 43	sigmaB
+T2	Gene 54 58	katX
+N1	Gene_Identifier Annotation:T1 Referent:sigB
+N2	Gene_Identifier Annotation:T2 Referent:katX

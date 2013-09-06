@@ -1,0 +1,8 @@
+T1	PolymeraseComplex 94 101;114 129	sigma E RNA polymerases
+T2	Protein 94 101	sigma E
+T3	PolymeraseComplex 106 129	sigma K RNA polymerases
+T4	Protein 106 113	sigma K
+N1	Gene_Identifier Annotation:T1 Referent:sigE
+N2	Gene_Identifier Annotation:T2 Referent:sigE
+N3	Gene_Identifier Annotation:T3 Referent:sigK
+N4	Gene_Identifier Annotation:T4 Referent:sigK

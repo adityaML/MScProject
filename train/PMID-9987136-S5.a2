@@ -1,0 +1,16 @@
+T19	Action 72 86	co-transcribed
+E1	Action_Target:T19 Target:T6
+R1	Interaction.Regulation Target:T4 Agent:T1
+R2	Interaction.Regulation Target:T6 Agent:T1
+R3	Interaction.Regulation Target:T16 Agent:T1
+R4	Interaction.Regulation Target:T14 Agent:T1
+R5	Interaction.Regulation Target:T8 Agent:T1
+R6	Interaction.Regulation Target:T10 Agent:T1
+R7	Interaction.Regulation Target:T12 Agent:T1
+R8	Master_of_Regulon Master:T1 Regulon:T2
+R9	Member_of_Regulon Member:T6 Regulon:T2
+R10	Member_of_Regulon Member:T14 Regulon:T2
+R11	Member_of_Regulon Member:T10 Regulon:T2
+R12	Member_of_Regulon Member:T8 Regulon:T2
+R13	Member_of_Regulon Member:T16 Regulon:T2
+R14	Member_of_Regulon Member:T12 Regulon:T2

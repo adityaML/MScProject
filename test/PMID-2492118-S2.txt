@@ -1,0 +1,2 @@
+A 27-kilodalton RNA polymerase sigma factor called sigma K (or sigma 27) has been found that causes weak transcription of spoIVCB and strong transcription of cotD.
+

@@ -1,0 +1,5 @@
+T4	Action 0 10	Activation
+T5	Action 66 79	transcription
+E1	Action_Target:T4 Target:T1
+E2	Transcription_by:T5 Agent:T2
+R1	Interaction.Regulation Target:E1 Agent:T2

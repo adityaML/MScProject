@@ -1,0 +1,18 @@
+T1	Protein 34 40	SpoIID
+T2	Protein 42 48	SpoIIP
+T3	Protein 50 56	SpoIIM
+T4	Protein 58 62	BofA
+T5	Protein 67 75	SpoIIIAH
+T6	Protein 129 137	sigma(E)
+T7	Protein 155 161	SpoIIQ
+T8	Protein 213 221	sigma(F)
+T9	Protein 275 282	SpoIVFA
+N1	Gene_Identifier Annotation:T1 Referent:spoIID
+N2	Gene_Identifier Annotation:T2 Referent:spoIIP
+N3	Gene_Identifier Annotation:T3 Referent:spoIIM
+N4	Gene_Identifier Annotation:T4 Referent:bofA
+N5	Gene_Identifier Annotation:T5 Referent:spoIIIAH
+N6	Gene_Identifier Annotation:T6 Referent:sigE
+N7	Gene_Identifier Annotation:T7 Referent:spoIIQ
+N8	Gene_Identifier Annotation:T8 Referent:sigF
+N9	Gene_Identifier Annotation:T9 Referent:spoIVFA

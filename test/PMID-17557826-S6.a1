@@ -1,0 +1,6 @@
+T1	Gene 23 27	ctpB
+T2	Protein 154 162	sigma(G)
+T3	Protein 221 233	pro-sigma(K)
+N1	Gene_Identifier Annotation:T1 Referent:ctpB
+N2	Gene_Identifier Annotation:T2 Referent:sigG
+N3	Gene_Identifier Annotation:T3 Referent:sigK

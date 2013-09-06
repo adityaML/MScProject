@@ -110,7 +110,7 @@ if __name__ == '__main__':
 	fo1.close()
 	fi3.close()
 	fi4.close()
-	newtext='./GRN.py --a1-dir /home/aditya/Project/dev --a2-dir /home/aditya/Project/dev --pred-sif /home/aditya/Project/ProjectFiles/MScProject/output_thresh.sif /home/aditya/Project/dev/PMID-*.txt'
+	newtext='./GRN.py --a1-dir /home/aditya/Project/dev --a2-dir /home/aditya/Project/dev --pred-sif /home/aditya/Project/output_thresh.sif /home/aditya/Project/dev/PMID-*.txt'
 	stream=os.popen(newtext)
 	for lal in stream:
 		lal=lal.strip()

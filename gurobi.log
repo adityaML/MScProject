@@ -550,3 +550,369 @@ Best objective 6.459359136963e+01, best bound 6.459359136963e+01, gap 0.0%
 
 Gurobi 5.0.2 (linux32) logging started Fri Sep  6 06:32:39 2013
 
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.214031621475e+02, best bound 7.214031621475e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.712836974230e+02, best bound 4.712836974230e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.056339691011e+02, best bound 4.056339691011e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.721006971241e+02, best bound 2.721006971241e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.802758981995e+02, best bound 1.802758981995e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.566355289913e+02, best bound 1.566355289913e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.577015723453e+02, best bound 1.577015723453e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.464803848929e+02, best bound 1.464803848929e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.451828208280e+02, best bound 1.451828208280e+02, gap 0.0%
+Optimize a model with 435 rows, 876 columns and 1305 nonzeros
+Presolve removed 435 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.249351222966e+02, best bound 1.249351222966e+02, gap 0.0%
+Optimize a model with 429 rows, 876 columns and 1287 nonzeros
+Presolve removed 429 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.086744897079e+02, best bound 1.086744897079e+02, gap 0.0%
+Optimize a model with 423 rows, 876 columns and 1269 nonzeros
+Presolve removed 423 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.802618773703e+01, best bound 8.802618773703e+01, gap 0.0%
+Optimize a model with 405 rows, 876 columns and 1215 nonzeros
+Presolve removed 405 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.239546080783e+01, best bound 8.239546080783e+01, gap 0.0%
+Optimize a model with 396 rows, 876 columns and 1188 nonzeros
+Presolve removed 396 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.145986714960e+01, best bound 8.145986714960e+01, gap 0.0%
+Optimize a model with 384 rows, 876 columns and 1152 nonzeros
+Presolve removed 384 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.479549735344e+01, best bound 7.479549735344e+01, gap 0.0%
+Optimize a model with 390 rows, 876 columns and 1170 nonzeros
+Presolve removed 390 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.795901958821e+01, best bound 7.795901958821e+01, gap 0.0%
+Optimize a model with 336 rows, 876 columns and 1008 nonzeros
+Presolve removed 336 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.662480718900e+01, best bound 6.662480718900e+01, gap 0.0%
+Optimize a model with 360 rows, 876 columns and 1080 nonzeros
+Presolve removed 360 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.733880842771e+01, best bound 6.733880842771e+01, gap 0.0%
+Optimize a model with 300 rows, 876 columns and 900 nonzeros
+Presolve removed 300 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.872865476377e+01, best bound 5.872865476377e+01, gap 0.0%
+Optimize a model with 330 rows, 876 columns and 990 nonzeros
+Presolve removed 330 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.459359136963e+01, best bound 6.459359136963e+01, gap 0.0%
+
+Gurobi 5.0.2 (linux32) logging started Fri Sep  6 06:40:57 2013
+
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.214031621475e+02, best bound 7.214031621475e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.712836974230e+02, best bound 4.712836974230e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.056339691011e+02, best bound 4.056339691011e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.721006971241e+02, best bound 2.721006971241e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.802758981995e+02, best bound 1.802758981995e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.566355289913e+02, best bound 1.566355289913e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.577015723453e+02, best bound 1.577015723453e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.464803848929e+02, best bound 1.464803848929e+02, gap 0.0%
+Optimize a model with 438 rows, 876 columns and 1314 nonzeros
+Presolve removed 438 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.451828208280e+02, best bound 1.451828208280e+02, gap 0.0%
+Optimize a model with 435 rows, 876 columns and 1305 nonzeros
+Presolve removed 435 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.249351222966e+02, best bound 1.249351222966e+02, gap 0.0%
+Optimize a model with 429 rows, 876 columns and 1287 nonzeros
+Presolve removed 429 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.086744897079e+02, best bound 1.086744897079e+02, gap 0.0%
+Optimize a model with 423 rows, 876 columns and 1269 nonzeros
+Presolve removed 423 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.802618773703e+01, best bound 8.802618773703e+01, gap 0.0%
+Optimize a model with 405 rows, 876 columns and 1215 nonzeros
+Presolve removed 405 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.239546080783e+01, best bound 8.239546080783e+01, gap 0.0%
+Optimize a model with 396 rows, 876 columns and 1188 nonzeros
+Presolve removed 396 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.145986714960e+01, best bound 8.145986714960e+01, gap 0.0%
+Optimize a model with 384 rows, 876 columns and 1152 nonzeros
+Presolve removed 384 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.479549735344e+01, best bound 7.479549735344e+01, gap 0.0%
+Optimize a model with 390 rows, 876 columns and 1170 nonzeros
+Presolve removed 390 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.795901958821e+01, best bound 7.795901958821e+01, gap 0.0%
+Optimize a model with 336 rows, 876 columns and 1008 nonzeros
+Presolve removed 336 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.662480718900e+01, best bound 6.662480718900e+01, gap 0.0%
+Optimize a model with 360 rows, 876 columns and 1080 nonzeros
+Presolve removed 360 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.733880842771e+01, best bound 6.733880842771e+01, gap 0.0%
+Optimize a model with 300 rows, 876 columns and 900 nonzeros
+Presolve removed 300 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.872865476377e+01, best bound 5.872865476377e+01, gap 0.0%
+Optimize a model with 330 rows, 876 columns and 990 nonzeros
+Presolve removed 330 rows and 876 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.459359136963e+01, best bound 6.459359136963e+01, gap 0.0%
+
+Gurobi 5.0.2 (linux32) logging started Fri Sep  6 06:51:45 2013
+
